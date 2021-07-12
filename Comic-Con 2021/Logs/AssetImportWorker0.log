@@ -1095,3 +1095,187 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs using Guid(0f8194400c71146bc990078aebca1fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b49c10cf812dca2411a0cf1e2e2752b') in 0.001753 seconds 
   Import took 0.005109 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 299.854186 seconds.
+  path: Assets/ProjectAssets/Materials/Black Sofa.mat
+  artifactKey: Guid(e9f69647c8bd44fd49cc5420db93d2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Black Sofa.mat using Guid(e9f69647c8bd44fd49cc5420db93d2f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a4ca3072d9cd8a72beb22f3c93400e') in 0.236399 seconds 
+  Import took 0.240804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.696231 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Diffuse.png
+  artifactKey: Guid(352490c2c1cfa4a298c79d52afa43961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Diffuse.png using Guid(352490c2c1cfa4a298c79d52afa43961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec44c037398ce8fc0bf47a2826422360') in 0.010677 seconds 
+  Import took 0.014235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Roughness.png
+  artifactKey: Guid(c56f1a741258e4f0fb9e9e38b8b2c437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Roughness.png using Guid(c56f1a741258e4f0fb9e9e38b8b2c437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49434145de532abd744c3cfa50ba2b4e') in 0.010828 seconds 
+  Import took 0.014343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Diffuse.png
+  artifactKey: Guid(352490c2c1cfa4a298c79d52afa43961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Diffuse.png using Guid(352490c2c1cfa4a298c79d52afa43961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec44c037398ce8fc0bf47a2826422360') in 0.039214 seconds 
+  Import took 0.043170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/ProjectAssets/Materials/New Material.mat
+  artifactKey: Guid(b1356538f475447e79b40af3b364ee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Material.mat using Guid(b1356538f475447e79b40af3b364ee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a145a3ea400039483955324830259c39') in 0.064661 seconds 
+  Import took 0.068591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Normal.png
+  artifactKey: Guid(3451534570f73492ca82357d2e375a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Normal.png using Guid(3451534570f73492ca82357d2e375a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcff396b551cd604530b81fbfaaadfc') in 0.008282 seconds 
+  Import took 0.011119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Height.png
+  artifactKey: Guid(d02556dd2b3d340ea91084586a52eb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Height.png using Guid(d02556dd2b3d340ea91084586a52eb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4611314084ce0d197e437bb929952a35') in 0.006927 seconds 
+  Import took 0.009257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Metallic.png
+  artifactKey: Guid(9cec1e47c3dd246aa8c028fc6dae8948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Metallic.png using Guid(9cec1e47c3dd246aa8c028fc6dae8948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4404c9ecc25cd75c847a604bba265405') in 0.007608 seconds 
+  Import took 0.010370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.612359 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Normal.png
+  artifactKey: Guid(3451534570f73492ca82357d2e375a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Normal.png using Guid(3451534570f73492ca82357d2e375a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb774ca2c006fde50bfd90faca176e1') in 0.011779 seconds 
+  Import took 0.015439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007013 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Normal.png
+  artifactKey: Guid(3451534570f73492ca82357d2e375a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet/GothicCabinet_01_16-bit_Normal.png using Guid(3451534570f73492ca82357d2e375a17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb774ca2c006fde50bfd90faca176e1') in 0.031510 seconds 
+  Import took 0.036171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.285657 seconds.
+  path: Assets/ProjectAssets/Materials/Gothic Cabinet.mat
+  artifactKey: Guid(b1356538f475447e79b40af3b364ee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Gothic Cabinet.mat using Guid(b1356538f475447e79b40af3b364ee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9235a7d3614b5638927bdeaf70ccd4cc') in 0.069155 seconds 
+  Import took 0.074969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.937549 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/GothicCabinet_01.blend
+  artifactKey: Guid(48b1c5d0f49074fbaad59c61b4b28503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/GothicCabinet_01.blend using Guid(48b1c5d0f49074fbaad59c61b4b28503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565008db6df3765a51963de512a0316e') in 0.164585 seconds 
+  Import took 0.169884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.017137 seconds.
+  path: Assets/ProjectAssets/Materials/New Prefab.prefab
+  artifactKey: Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Prefab.prefab using Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3391c543f8327266cb9f3b74686745f') in 0.007467 seconds 
+  Import took 0.011770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.640747 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab
+  artifactKey: Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab using Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a74fcde333f6f6f8b13b996fbb850bd') in 0.006257 seconds 
+  Import took 0.010991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.091927 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab
+  artifactKey: Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab using Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61dbdff49f5e4e7dea6cac4dc4fe8c5f') in 0.073457 seconds 
+  Import took 0.081109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.588645 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(43a2144557ec84a75a385452a5c62257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10fa1efa3f8263ef583cbe165d39f906') in 0.060702 seconds 
+  Import took 0.066530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.295924 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10daa0282a89e2bb844578f8a6e1361a') in 0.007899 seconds 
+  Import took 0.011904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001050 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10daa0282a89e2bb844578f8a6e1361a') in 0.009724 seconds 
+  Import took 0.013032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.224425 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454f04a6a05c862f105f558c60fbd5ad') in 0.070453 seconds 
+  Import took 0.081236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.146798 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea977d81d13d24f412f3912efd1dc36') in 0.078638 seconds 
+  Import took 0.084381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.154064 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9d12d6459d7d4a5282239eea97f205') in 0.007395 seconds 
+  Import took 0.011443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.468261 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a3a517174adc4d6a6ee3455d39da4c') in 0.086853 seconds 
+  Import took 0.094350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.172832 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab
+  artifactKey: Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab using Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c9962d21cfb1c151d3d85bdf76add2') in 0.071748 seconds 
+  Import took 0.080786 seconds .
+
