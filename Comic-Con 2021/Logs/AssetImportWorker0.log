@@ -1431,3 +1431,123 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Console.prefab using Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d70e8e496b312674d6ea4fcc7789462') in 0.051567 seconds 
   Import took 0.056892 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 218.588016 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Lantern_01.blend
+  artifactKey: Guid(2a7e10d1e31e64b1cb59fffc39286862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Lantern_01.blend using Guid(2a7e10d1e31e64b1cb59fffc39286862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cad6d7be499127c1945fec30580730') in 0.181567 seconds 
+  Import took 0.186907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.060564 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Lantern.blend
+  artifactKey: Guid(2a7e10d1e31e64b1cb59fffc39286862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Lantern.blend using Guid(2a7e10d1e31e64b1cb59fffc39286862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d916c1aac5e62619718935982bc35f') in 0.131671 seconds 
+  Import took 0.137412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.310729 seconds.
+  path: Assets/ProjectAssets/Materials/Console.mat
+  artifactKey: Guid(a0c0000839caa47b0b7c5e2b57ad83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Console.mat using Guid(a0c0000839caa47b0b7c5e2b57ad83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba9fcd8a85abaa2a88b24870f9f40ad') in 0.039919 seconds 
+  Import took 0.044539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.056902 seconds.
+  path: Assets/ProjectAssets/Materials/New Folder
+  artifactKey: Guid(aefae3f2d83a1455e8cd2cb4496ba062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Folder using Guid(aefae3f2d83a1455e8cd2cb4496ba062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d11d414eba329d840356fb35c0222c0') in 0.002538 seconds 
+  Import took 0.006101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000974 seconds.
+  path: Assets/ProjectAssets/Materials/New Folder
+  artifactKey: Guid(aefae3f2d83a1455e8cd2cb4496ba062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Folder using Guid(aefae3f2d83a1455e8cd2cb4496ba062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d11d414eba329d840356fb35c0222c0') in 0.000868 seconds 
+  Import took 0.003782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.328326 seconds.
+  path: Assets/ProjectAssets/Materials/Lantern.mat
+  artifactKey: Guid(a1d8a20d12ed64ec491397da5eacc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Lantern.mat using Guid(a1d8a20d12ed64ec491397da5eacc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3411135a7b20df7a3c3239e1c3e12a58') in 0.052000 seconds 
+  Import took 0.057139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.579138 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Diffuse.png
+  artifactKey: Guid(43de1136106f141d4b66ec7247313b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Diffuse.png using Guid(43de1136106f141d4b66ec7247313b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3297463b8e7601ba11289a84b48615c4') in 0.012017 seconds 
+  Import took 0.015604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Height.png
+  artifactKey: Guid(682098774d9954813a6b3f6240414bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Height.png using Guid(682098774d9954813a6b3f6240414bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c835d487e83f0ac6f5c648d3ce1ad7') in 0.008833 seconds 
+  Import took 0.011362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Metallic.png
+  artifactKey: Guid(49c6e8a4225b0461daeb340b7c83a955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Metallic.png using Guid(49c6e8a4225b0461daeb340b7c83a955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f783b022e96bed15310efb84273c48bf') in 0.012187 seconds 
+  Import took 0.016068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Diffuse.png
+  artifactKey: Guid(43de1136106f141d4b66ec7247313b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Diffuse.png using Guid(43de1136106f141d4b66ec7247313b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3297463b8e7601ba11289a84b48615c4') in 0.046561 seconds 
+  Import took 0.051295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.658305 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Normal.png
+  artifactKey: Guid(d1cb44d9da68644639792699e3da1819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Normal.png using Guid(d1cb44d9da68644639792699e3da1819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e76a66671b50fcfa7d1068491e8f32') in 0.009449 seconds 
+  Import took 0.013104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Roughness.png
+  artifactKey: Guid(f5dc0648a2a1348c48c4074101229e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Roughness.png using Guid(f5dc0648a2a1348c48c4074101229e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a33896d6791e60a255eceda4914fadb') in 0.012632 seconds 
+  Import took 0.015296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.155449 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Normal.png
+  artifactKey: Guid(d1cb44d9da68644639792699e3da1819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Normal.png using Guid(d1cb44d9da68644639792699e3da1819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22c6ce5aca6490297ef626f7cc59b70') in 0.012251 seconds 
+  Import took 0.016077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004108 seconds.
+  path: Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Normal.png
+  artifactKey: Guid(d1cb44d9da68644639792699e3da1819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lantern/Lantern_01_BrassOld_16-bit_Normal.png using Guid(d1cb44d9da68644639792699e3da1819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22c6ce5aca6490297ef626f7cc59b70') in 0.009301 seconds 
+  Import took 0.012256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.267030 seconds.
+  path: Assets/ProjectAssets/Materials/Lantern.mat
+  artifactKey: Guid(a1d8a20d12ed64ec491397da5eacc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Lantern.mat using Guid(a1d8a20d12ed64ec491397da5eacc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18d0f4bd80342546470da4ba7791b4e') in 0.059427 seconds 
+  Import took 0.065712 seconds .
+
