@@ -1279,3 +1279,155 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab using Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c9962d21cfb1c151d3d85bdf76add2') in 0.071748 seconds 
   Import took 0.080786 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1201.541804 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/ClassicConsole_01.blend
+  artifactKey: Guid(472ddf1c95b1049649b723e13e60cc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/ClassicConsole_01.blend using Guid(472ddf1c95b1049649b723e13e60cc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17ff0d30b40ec13616c4a4547ec237e') in 0.127474 seconds 
+  Import took 0.132977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.222777 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Console.blend
+  artifactKey: Guid(472ddf1c95b1049649b723e13e60cc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Console.blend using Guid(472ddf1c95b1049649b723e13e60cc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1430e9c09343d07984930f823e67dc8c') in 0.101477 seconds 
+  Import took 0.106374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.153943 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Gothic Cabinet.blend
+  artifactKey: Guid(48b1c5d0f49074fbaad59c61b4b28503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Gothic Cabinet.blend using Guid(48b1c5d0f49074fbaad59c61b4b28503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4eb647cf01795f230feac34402e812') in 0.146452 seconds 
+  Import took 0.151831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.755641 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Sofa.blend
+  artifactKey: Guid(0fdb97b79f1a64062bbb942e2963972e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Sofa.blend using Guid(0fdb97b79f1a64062bbb942e2963972e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6ff3b30abe26f1c501a5740196f34b') in 0.114344 seconds 
+  Import took 0.119141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.712510 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet
+  artifactKey: Guid(d4b9179185d894c919fc662200b60cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet using Guid(d4b9179185d894c919fc662200b60cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea30d31ee28d2cc47f77c73fee2ad19') in 0.002406 seconds 
+  Import took 0.006984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000932 seconds.
+  path: Assets/ProjectAssets/Textures/Gothic Cabinet
+  artifactKey: Guid(d4b9179185d894c919fc662200b60cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Gothic Cabinet using Guid(d4b9179185d894c919fc662200b60cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea30d31ee28d2cc47f77c73fee2ad19') in 0.001055 seconds 
+  Import took 0.004117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.662491 seconds.
+  path: Assets/ProjectAssets/Materials/Gothic Cabinet.mat
+  artifactKey: Guid(b1356538f475447e79b40af3b364ee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Gothic Cabinet.mat using Guid(b1356538f475447e79b40af3b364ee0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b30aa34ceb10dfbecc2e13c69d8e9bd') in 0.037876 seconds 
+  Import took 0.042553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.166157 seconds.
+  path: Assets/ProjectAssets/Materials/New Material.mat
+  artifactKey: Guid(a0c0000839caa47b0b7c5e2b57ad83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Material.mat using Guid(a0c0000839caa47b0b7c5e2b57ad83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1722a18ec82c97d5161ad88fab064101') in 0.042949 seconds 
+  Import took 0.047515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.964379 seconds.
+  path: Assets/ProjectAssets/Materials/Console.mat
+  artifactKey: Guid(a0c0000839caa47b0b7c5e2b57ad83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Console.mat using Guid(a0c0000839caa47b0b7c5e2b57ad83d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68abe1d49a6f22cfde5b278f5bb8c49a') in 0.040869 seconds 
+  Import took 0.045476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.081399 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Diffuse.png
+  artifactKey: Guid(0bd22c074539b4e1a95ff5765fb1596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Diffuse.png using Guid(0bd22c074539b4e1a95ff5765fb1596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067553839ba935925538919a7590ce23') in 0.012367 seconds 
+  Import took 0.015886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Roughness.png
+  artifactKey: Guid(c8e76c7829ba24ff387ab45aa0729e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Roughness.png using Guid(c8e76c7829ba24ff387ab45aa0729e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad5c2f6999a9e8b12d4517c72577b8d') in 0.009722 seconds 
+  Import took 0.012386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Diffuse.png
+  artifactKey: Guid(0bd22c074539b4e1a95ff5765fb1596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Diffuse.png using Guid(0bd22c074539b4e1a95ff5765fb1596e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067553839ba935925538919a7590ce23') in 0.025185 seconds 
+  Import took 0.028723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Metallic.png
+  artifactKey: Guid(e5f0eb2296c4a4fa5a7895598d94dacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Metallic.png using Guid(e5f0eb2296c4a4fa5a7895598d94dacf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0424cef0cc17ec3b8848b1dd72ac3ce') in 0.058428 seconds 
+  Import took 0.061913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Height.png
+  artifactKey: Guid(cd1d98978f50f403d9cca0f3f7a8c223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Height.png using Guid(cd1d98978f50f403d9cca0f3f7a8c223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfcec138dbde4d4b59981b8820aa2312') in 0.008218 seconds 
+  Import took 0.010909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Normal.png
+  artifactKey: Guid(d3d04ee7c66b44788aab9fff62f78fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Normal.png using Guid(d3d04ee7c66b44788aab9fff62f78fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '386f264a48585995e95d1fb41bf93ec8') in 0.009518 seconds 
+  Import took 0.011810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.623335 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Normal.png
+  artifactKey: Guid(d3d04ee7c66b44788aab9fff62f78fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Normal.png using Guid(d3d04ee7c66b44788aab9fff62f78fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9a317083067d5f8b5429f734227838') in 0.013907 seconds 
+  Import took 0.017828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005972 seconds.
+  path: Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Normal.png
+  artifactKey: Guid(d3d04ee7c66b44788aab9fff62f78fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Console/ClassicConsole_01_16-bit_Normal.png using Guid(d3d04ee7c66b44788aab9fff62f78fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9a317083067d5f8b5429f734227838') in 0.034488 seconds 
+  Import took 0.039421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 260.746033 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Console.prefab
+  artifactKey: Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Console.prefab using Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92398d7d67f51eda89b8bd6894b68be0') in 0.006725 seconds 
+  Import took 0.011453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.182313 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Console.prefab
+  artifactKey: Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Console.prefab using Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d70e8e496b312674d6ea4fcc7789462') in 0.051567 seconds 
+  Import took 0.056892 seconds .
+
