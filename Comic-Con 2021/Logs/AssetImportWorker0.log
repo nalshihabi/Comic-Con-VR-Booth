@@ -1551,3 +1551,123 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Materials/Lantern.mat using Guid(a1d8a20d12ed64ec491397da5eacc9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18d0f4bd80342546470da4ba7791b4e') in 0.059427 seconds 
   Import took 0.065712 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2761.723198 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Sofa_01_2k.blend
+  artifactKey: Guid(4b7efe31d70574c5abe0884fc50853f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Sofa_01_2k.blend using Guid(4b7efe31d70574c5abe0884fc50853f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f9369157ea479881419fa08045640eb') in 0.861582 seconds 
+  Import took 0.893752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.578441 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa
+  artifactKey: Guid(06873d705a18b4e5cb3a8611f9a9237d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa using Guid(06873d705a18b4e5cb3a8611f9a9237d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9aef0ac94f65194d25a31a267438c7') in 0.001064 seconds 
+  Import took 0.005219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004345 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa
+  artifactKey: Guid(06873d705a18b4e5cb3a8611f9a9237d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa using Guid(06873d705a18b4e5cb3a8611f9a9237d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9aef0ac94f65194d25a31a267438c7') in 0.000938 seconds 
+  Import took 0.004658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092071 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa/Sofa_01_diff_2k.jpg
+  artifactKey: Guid(7eeec14f936934c0cb2878aedb4dcba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa/Sofa_01_diff_2k.jpg using Guid(7eeec14f936934c0cb2878aedb4dcba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca32df63de99c8f3fada4b389c5c889') in 0.071580 seconds 
+  Import took 0.080390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000881 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa/Sofa_01_metallic_2k.exr
+  artifactKey: Guid(85687573b49cb419eaa2cc66ccb7ce98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa/Sofa_01_metallic_2k.exr using Guid(85687573b49cb419eaa2cc66ccb7ce98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4020f22ff8f9b49272450439264ba861') in 0.979732 seconds 
+  Import took 0.988333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa/Sofa_01_nor_gl_2k.exr
+  artifactKey: Guid(53aae690216a0408eab52ac50b411f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa/Sofa_01_nor_gl_2k.exr using Guid(53aae690216a0408eab52ac50b411f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef50df1520c4823a6ea2d3d05ce0b969') in 0.009303 seconds 
+  Import took 0.013164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa/Sofa_01_roughness_2k.jpg
+  artifactKey: Guid(194663d8b07d249ca99f0328a35a3fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa/Sofa_01_roughness_2k.jpg using Guid(194663d8b07d249ca99f0328a35a3fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea4103e4f633a5cdb07ab70adf182f1') in 0.046368 seconds 
+  Import took 0.051173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.078238 seconds.
+  path: Assets/ProjectAssets/Materials/White Sofa.mat
+  artifactKey: Guid(aa4c853200b024f6ca76b712c12786bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/White Sofa.mat using Guid(aa4c853200b024f6ca76b712c12786bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75100342772b94d715bace72cc11f6c') in 0.043114 seconds 
+  Import took 0.047896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.356502 seconds.
+  path: Assets/ProjectAssets/Textures/White Sofa/Sofa_01_nor_gl_2k.exr
+  artifactKey: Guid(53aae690216a0408eab52ac50b411f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/White Sofa/Sofa_01_nor_gl_2k.exr using Guid(53aae690216a0408eab52ac50b411f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7d565ef3c546dbb650a900997baafa') in 0.009574 seconds 
+  Import took 0.012984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 663.481080 seconds.
+  path: Assets/ProjectAssets/Materials/White Sofa.mat
+  artifactKey: Guid(aa4c853200b024f6ca76b712c12786bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/White Sofa.mat using Guid(aa4c853200b024f6ca76b712c12786bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd507cbed4c6cd5d767346c97c6eb58') in 0.297132 seconds 
+  Import took 0.302771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 707.782074 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88cc448b7bd5d8dd62abe1e03465837e') in 0.009247 seconds 
+  Import took 0.014517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.504319 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab
+  artifactKey: Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab using Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '438f2c161fbcae540b85281c7a588e8d') in 0.004722 seconds 
+  Import took 0.009427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.126572 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab
+  artifactKey: Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab using Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0dc03e60e6eb113f50510d9bbde79c7') in 0.081438 seconds 
+  Import took 0.091622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.169467 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lantern.prefab
+  artifactKey: Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4e63aabada9c64852af7e63e6cb6b7') in 0.005448 seconds 
+  Import took 0.010653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.034028 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lantern.prefab
+  artifactKey: Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f866feed799795db7897eba121f9901') in 0.102348 seconds 
+  Import took 0.111789 seconds .
+
