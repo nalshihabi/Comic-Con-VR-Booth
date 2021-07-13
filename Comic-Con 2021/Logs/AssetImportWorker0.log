@@ -1671,3 +1671,91 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f866feed799795db7897eba121f9901') in 0.102348 seconds 
   Import took 0.111789 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 481.644253 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Tall Chair.blend
+  artifactKey: Guid(0d27584e2527d4155898f95b1f56240c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Tall Chair.blend using Guid(0d27584e2527d4155898f95b1f56240c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eed329c9203abf31738bd9c6253d570') in 0.105533 seconds 
+  Import took 0.112262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.351764 seconds.
+  path: Assets/ProjectAssets/Materials/White Sofa.mat
+  artifactKey: Guid(aa4c853200b024f6ca76b712c12786bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/White Sofa.mat using Guid(aa4c853200b024f6ca76b712c12786bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096daa9ec5da8cf950fa311421f53ba7') in 0.030708 seconds 
+  Import took 0.035485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.092916 seconds.
+  path: Assets/ProjectAssets/Materials/Tall Chair.mat
+  artifactKey: Guid(55f6cbf736034403b9097fdae675ef24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Tall Chair.mat using Guid(55f6cbf736034403b9097fdae675ef24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a0f4435ae45f371fbd8f38eced401e') in 0.039414 seconds 
+  Import took 0.043811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.676932 seconds.
+  path: Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_diff_2k.jpg
+  artifactKey: Guid(a3b00f1fc93274528a9eb3b3850193a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_diff_2k.jpg using Guid(a3b00f1fc93274528a9eb3b3850193a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7303c8860b419c9e14222c30300b2586') in 0.007943 seconds 
+  Import took 0.011836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_metallic_2k.exr
+  artifactKey: Guid(7d029e25d790f47ba9edcf829245ebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_metallic_2k.exr using Guid(7d029e25d790f47ba9edcf829245ebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c4e72bf16cdd486faa1d7a829fdad5') in 0.007583 seconds 
+  Import took 0.010751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_roughness_2k.jpg
+  artifactKey: Guid(d7035ac5b579643c184ec9b2cad13307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_roughness_2k.jpg using Guid(d7035ac5b579643c184ec9b2cad13307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471fdedcaec1a2d3f8b5d7ccbe2d5d4b') in 0.036381 seconds 
+  Import took 0.041806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_nor_gl_2k.exr
+  artifactKey: Guid(c531a7663a31343f18fab10021175df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_nor_gl_2k.exr using Guid(c531a7663a31343f18fab10021175df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106940670b434485dadef781e5a4aa5c') in 0.057577 seconds 
+  Import took 0.064105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.313261 seconds.
+  path: Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_nor_gl_2k.exr
+  artifactKey: Guid(c531a7663a31343f18fab10021175df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Tall Chair/WoodenChair_01_nor_gl_2k.exr using Guid(c531a7663a31343f18fab10021175df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1dff699106f223ffc0f27bec949ceb') in 0.009589 seconds 
+  Import took 0.013360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.150444 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab
+  artifactKey: Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab using Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c690b93d5ec61d00a9e969da7ac99dc4') in 0.006214 seconds 
+  Import took 0.010603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab
+  artifactKey: Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab using Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c690b93d5ec61d00a9e969da7ac99dc4') in 0.004266 seconds 
+  Import took 0.007610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.233535 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab
+  artifactKey: Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab using Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad7b8129c77d06a720b294c683f973d') in 0.038550 seconds 
+  Import took 0.043152 seconds .
+
