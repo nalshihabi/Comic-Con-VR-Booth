@@ -2055,3 +2055,491 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab using Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d24449881ec0d79de229efa7878178f') in 0.058545 seconds 
   Import took 0.064239 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1395.551868 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/DiningChair.fbx
+  artifactKey: Guid(bd0550829ab2e47a58f71f3732ebd0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/DiningChair.fbx using Guid(bd0550829ab2e47a58f71f3732ebd0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcd25f51ae13cfa90e5edd07f6ccdad') in 0.122849 seconds 
+  Import took 0.126531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.485426 seconds.
+  path: Assets/ProjectAssets/Materials/Armchair_Leather.mat
+  artifactKey: Guid(eeee99c15a5f5427bace8ea1fd5e2a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Armchair_Leather.mat using Guid(eeee99c15a5f5427bace8ea1fd5e2a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0574128f3ce0b32cc857fc913953ab55') in 0.034644 seconds 
+  Import took 0.038777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/ProjectAssets/Materials/Armchair_Wood.mat
+  artifactKey: Guid(06b5908331676414f8344bf4d35116e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Armchair_Wood.mat using Guid(06b5908331676414f8344bf4d35116e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e827e3f080a6c9d55448986bd1ac9a') in 0.016288 seconds 
+  Import took 0.019240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ProjectAssets/Materials/Brass.mat
+  artifactKey: Guid(05a8ce7a460d6470ea4815ec0722c269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Brass.mat using Guid(05a8ce7a460d6470ea4815ec0722c269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf3ce550d8f7f13c76d4d9a747a34e8') in 0.042268 seconds 
+  Import took 0.047262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/ProjectAssets/Materials/Lounge Sofa.mat
+  artifactKey: Guid(7da870470b3f94b5daad7f34ce2bbecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Lounge Sofa.mat using Guid(7da870470b3f94b5daad7f34ce2bbecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56674eab13016bcd8e69be775316863') in 0.064391 seconds 
+  Import took 0.070392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.737977 seconds.
+  path: Assets/ProjectAssets/Materials/Dining Chair.mat
+  artifactKey: Guid(e2f8bc9fe648e4767935c91b013b26bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dining Chair.mat using Guid(e2f8bc9fe648e4767935c91b013b26bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '223751b4c800a1812c9dc7cf586717cf') in 0.035949 seconds 
+  Import took 0.040297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.871696 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_AO.png
+  artifactKey: Guid(dd77b25f5cf664ba2a96a36580bdc8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_AO.png using Guid(dd77b25f5cf664ba2a96a36580bdc8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16ce2b506663c1847cd623eee9e3fbf') in 0.011758 seconds 
+  Import took 0.015545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Metallic.png
+  artifactKey: Guid(a26c87e008b214c78a8a91a2a5188e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Metallic.png using Guid(a26c87e008b214c78a8a91a2a5188e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c7114bb4f7b355879aef211f977dde') in 0.011628 seconds 
+  Import took 0.015467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_AO.png
+  artifactKey: Guid(dd77b25f5cf664ba2a96a36580bdc8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_AO.png using Guid(dd77b25f5cf664ba2a96a36580bdc8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16ce2b506663c1847cd623eee9e3fbf') in 0.023048 seconds 
+  Import took 0.027149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Normal.png
+  artifactKey: Guid(f69d173c2b7e04a6da425f05e37972a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Normal.png using Guid(f69d173c2b7e04a6da425f05e37972a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b71780d41446736d6bfd3edfa6a0746') in 0.048384 seconds 
+  Import took 0.053776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Roughness.png
+  artifactKey: Guid(6ceaf34dc483749e996de0d680b4335a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Roughness.png using Guid(6ceaf34dc483749e996de0d680b4335a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889493a7e8656c06bdf661a4b9bd6b6d') in 0.043072 seconds 
+  Import took 0.047686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000582 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_BaseColor.png
+  artifactKey: Guid(22529ec0092e44e18adea90bc0a7b034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_BaseColor.png using Guid(22529ec0092e44e18adea90bc0a7b034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dec6ddceae88735ed44015d8901ff7') in 0.061447 seconds 
+  Import took 0.067776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.170144 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Normal.png
+  artifactKey: Guid(f69d173c2b7e04a6da425f05e37972a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Normal.png using Guid(f69d173c2b7e04a6da425f05e37972a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e19f2f49bcc7ca864c25a9d8153bc3') in 0.013338 seconds 
+  Import took 0.016606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006561 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Normal.png
+  artifactKey: Guid(f69d173c2b7e04a6da425f05e37972a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair_Normal.png using Guid(f69d173c2b7e04a6da425f05e37972a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e19f2f49bcc7ca864c25a9d8153bc3') in 0.022862 seconds 
+  Import took 0.028702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.985896 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair.fbx
+  artifactKey: Guid(d52a977aa0d8c4a518e1e2eacd40096f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair.fbx using Guid(d52a977aa0d8c4a518e1e2eacd40096f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1749e2c76b45626d3166e0f251e7dd46') in 0.117369 seconds 
+  Import took 0.121710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002150 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair/DiningChair.fbx
+  artifactKey: Guid(d52a977aa0d8c4a518e1e2eacd40096f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair/DiningChair.fbx using Guid(d52a977aa0d8c4a518e1e2eacd40096f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1749e2c76b45626d3166e0f251e7dd46') in 0.053525 seconds 
+  Import took 0.058015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.939752 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair
+  artifactKey: Guid(b836719152b8747ceb18bf759b49b546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair using Guid(b836719152b8747ceb18bf759b49b546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59abdd24c7593809c47ed965513ab902') in 0.001628 seconds 
+  Import took 0.007806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002344 seconds.
+  path: Assets/ProjectAssets/Textures/Dining Chair
+  artifactKey: Guid(b836719152b8747ceb18bf759b49b546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dining Chair using Guid(b836719152b8747ceb18bf759b49b546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59abdd24c7593809c47ed965513ab902') in 0.001252 seconds 
+  Import took 0.005574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.991491 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/DiningChair.fbx
+  artifactKey: Guid(5f68aa58897c249e2ac7b1ef5b5ea4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/DiningChair.fbx using Guid(5f68aa58897c249e2ac7b1ef5b5ea4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1b1f81f23dfdb47faff9035742c7c8') in 0.118561 seconds 
+  Import took 0.124409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.938083 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4425b6c1d833d3aed79a6fee520032e') in 0.008852 seconds 
+  Import took 0.014710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001151 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4425b6c1d833d3aed79a6fee520032e') in 0.007547 seconds 
+  Import took 0.013486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.309849 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab
+  artifactKey: Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/New Prefab.prefab using Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a36f71c53556d0f5aa97378722debb') in 0.049153 seconds 
+  Import took 0.054297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.846722 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Dining Chair.prefab
+  artifactKey: Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Dining Chair.prefab using Guid(b6b096947579844c58c472d4001a446d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f09f2f054145120fde94851d3d09bd') in 0.039210 seconds 
+  Import took 0.044530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.264518 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Furniture
+  artifactKey: Guid(4e71577600f334d8186f642dbfa0ba2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Furniture using Guid(4e71577600f334d8186f642dbfa0ba2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5269726e4e4239d0fa069954891734') in 0.003261 seconds 
+  Import took 0.009684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 382.061322 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/model 1.dae
+  artifactKey: Guid(fe555e53b51604821825f4e23bd3d5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/model 1.dae using Guid(fe555e53b51604821825f4e23bd3d5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271bd9855ff348af1fde227ae4618bce') in 0.147101 seconds 
+  Import took 0.151642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.381614 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Mercury Chair.dae
+  artifactKey: Guid(fe555e53b51604821825f4e23bd3d5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Mercury Chair.dae using Guid(fe555e53b51604821825f4e23bd3d5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e592243044722436c76482e02851de') in 0.128176 seconds 
+  Import took 0.132525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.041536 seconds.
+  path: Assets/ProjectAssets/Materials/New Material.mat
+  artifactKey: Guid(0978f797b1607471189e7841c638a999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Material.mat using Guid(0978f797b1607471189e7841c638a999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091dd05f567bc70bc4ce77c057ca1d7e') in 0.030434 seconds 
+  Import took 0.034460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.781736 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_albedo.jpg
+  artifactKey: Guid(5fc7b30cadb4d4fd4afdaef2575cfd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_albedo.jpg using Guid(5fc7b30cadb4d4fd4afdaef2575cfd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e848383bf856d1d0196997fe9c57e0d') in 0.036909 seconds 
+  Import took 0.042692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_normal.png
+  artifactKey: Guid(b8771116bbd1e4d7f9f2255525469740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_normal.png using Guid(b8771116bbd1e4d7f9f2255525469740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04d122781b492b8d55262dfb1996636') in 0.028120 seconds 
+  Import took 0.035666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_albedo.jpg
+  artifactKey: Guid(5fc7b30cadb4d4fd4afdaef2575cfd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_albedo.jpg using Guid(5fc7b30cadb4d4fd4afdaef2575cfd04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e848383bf856d1d0196997fe9c57e0d') in 0.027844 seconds 
+  Import took 0.033222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_metallic.jpg
+  artifactKey: Guid(bb04f1bee3f7c487497e2450cc001c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_metallic.jpg using Guid(bb04f1bee3f7c487497e2450cc001c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1740e545e6df34dab5fbce26c947f5ec') in 0.038942 seconds 
+  Import took 0.043882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_AO.jpg
+  artifactKey: Guid(843318cd8b2d44020bb083af8a0d6f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_AO.jpg using Guid(843318cd8b2d44020bb083af8a0d6f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbec8495314a2164ac660d2297fe425b') in 0.038175 seconds 
+  Import took 0.045364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_roughness.jpg
+  artifactKey: Guid(8f8a4d66674f545be8816d9bf39e65bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_roughness.jpg using Guid(8f8a4d66674f545be8816d9bf39e65bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb87f34fecd71ef33edbb81a76854d89') in 0.054992 seconds 
+  Import took 0.060266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.613609 seconds.
+  path: Assets/ProjectAssets/Textures/Mercury Chair/lambert1_normal.png
+  artifactKey: Guid(b8771116bbd1e4d7f9f2255525469740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Mercury Chair/lambert1_normal.png using Guid(b8771116bbd1e4d7f9f2255525469740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e54a400396987cd27710fa2d44863e') in 0.028589 seconds 
+  Import took 0.033635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.047809 seconds.
+  path: Assets/ProjectAssets/Materials/Mercury Chair.mat
+  artifactKey: Guid(0978f797b1607471189e7841c638a999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Mercury Chair.mat using Guid(0978f797b1607471189e7841c638a999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3923352c9e64585d1f65995cd70816cc') in 0.080276 seconds 
+  Import took 0.085501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.129451 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Mercury Chair.prefab
+  artifactKey: Guid(fe9a7e047f49842adbbb2e56705016f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Mercury Chair.prefab using Guid(fe9a7e047f49842adbbb2e56705016f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548622817e671f1f9b425cb3d5b3c9ba') in 0.009510 seconds 
+  Import took 0.013378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.774370 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Mercury Chair.prefab
+  artifactKey: Guid(fe9a7e047f49842adbbb2e56705016f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Mercury Chair.prefab using Guid(fe9a7e047f49842adbbb2e56705016f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8fec1a11af3cc5850cd934342508d2') in 0.069489 seconds 
+  Import took 0.074426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.669871 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/White Sofa.blend
+  artifactKey: Guid(4b7efe31d70574c5abe0884fc50853f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/White Sofa.blend using Guid(4b7efe31d70574c5abe0884fc50853f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa11022253dd54b6a5e9cf6c51a727ce') in 0.100106 seconds 
+  Import took 0.105344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.339888 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Lounge.dae
+  artifactKey: Guid(a098e388064a8478c92c26fa9b326bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Lounge.dae using Guid(a098e388064a8478c92c26fa9b326bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f5b2f3e7a9bd290df9ee6b41cfed6c') in 0.112399 seconds 
+  Import took 0.117086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.090469 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Furniture
+  artifactKey: Guid(7dcae4549c39e4cafb67f1e353e16961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Furniture using Guid(7dcae4549c39e4cafb67f1e353e16961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd1076d6bcb2abc4a73c4675f9c4559') in 0.002431 seconds 
+  Import took 0.007677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.132942 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Armchair.prefab
+  artifactKey: Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Armchair.prefab using Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e6096654a27b68830c6dc4bec39faf') in 0.008772 seconds 
+  Import took 0.013850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.002868 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Armchair.prefab
+  artifactKey: Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Armchair.prefab using Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '696bf32e570ab0cc878a16f528f65ab1') in 0.103422 seconds 
+  Import took 0.111055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 421.708041 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d7bfcdc168289127fa70614435adf1') in 0.008405 seconds 
+  Import took 0.013495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.445730 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9728f33ff50e40cb4d1cc31bcf13ccb9') in 0.082582 seconds 
+  Import took 0.088990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008006 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab
+  artifactKey: Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Gothic Cabinet.prefab using Guid(633fcc4df75c44a20b627eba924fc034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9728f33ff50e40cb4d1cc31bcf13ccb9') in 0.039590 seconds 
+  Import took 0.044400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 165.729538 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Console.prefab
+  artifactKey: Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Console.prefab using Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e464eafbcb589cced0f5e0953ab2ff') in 0.008466 seconds 
+  Import took 0.012664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.057689 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Console.prefab
+  artifactKey: Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Console.prefab using Guid(94278aa32a5b34154bc869d897717fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd521615741fe7fa11af99b04717ae8cb') in 0.096005 seconds 
+  Import took 0.101928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.325004 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab
+  artifactKey: Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab using Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cbec119da4ec8081c4cb608edcb9eb5') in 0.008752 seconds 
+  Import took 0.013413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.179042 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab
+  artifactKey: Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab using Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31af309e8a26d860c03a86f8f1ed626c') in 0.079730 seconds 
+  Import took 0.086610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.775550 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Lounge Sofa.dae
+  artifactKey: Guid(a098e388064a8478c92c26fa9b326bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Lounge Sofa.dae using Guid(a098e388064a8478c92c26fa9b326bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a59a45c2fad8e495609e966a311f885a') in 0.117029 seconds 
+  Import took 0.122264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.721301 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Black Sofa.blend
+  artifactKey: Guid(0fdb97b79f1a64062bbb942e2963972e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Black Sofa.blend using Guid(0fdb97b79f1a64062bbb942e2963972e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8fb180974b9f3c1f28ff3350db787c') in 0.137310 seconds 
+  Import took 0.142408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.303428 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab
+  artifactKey: Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab using Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4adc3b57de92ae22a48a6027cb436664') in 0.006411 seconds 
+  Import took 0.011303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.203342 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab
+  artifactKey: Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Black Sofa.prefab using Guid(65a5b990a8cd8408ab92265916c708a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5288d2e9e873c5d925c989fe37cd142') in 0.077604 seconds 
+  Import took 0.084591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.622152 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab
+  artifactKey: Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab using Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e342d67dbfc012e379e869125367fb') in 0.006812 seconds 
+  Import took 0.011258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.169641 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab
+  artifactKey: Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab using Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a1f0153734871584492352688f2db4') in 0.084628 seconds 
+  Import took 0.090645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.665864 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab
+  artifactKey: Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab using Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5595408a7973448ff1a8f00bff830c8') in 0.007225 seconds 
+  Import took 0.012220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.795635 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab
+  artifactKey: Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/White Sofa.prefab using Guid(9f30f055ec472443f8749d737e69071c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d29c6f5bfea1f2334493a13d1a58534') in 0.083589 seconds 
+  Import took 0.089526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.588055 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lantern.prefab
+  artifactKey: Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d731c1821f729d60f338145e798ca0') in 0.007858 seconds 
+  Import took 0.012395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014160 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lantern.prefab
+  artifactKey: Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d731c1821f729d60f338145e798ca0') in 0.007478 seconds 
+  Import took 0.015384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.720772 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lantern.prefab
+  artifactKey: Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117dc90d6a5df37492e1119b2854b2af') in 0.101371 seconds 
+  Import took 0.108639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012286 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lantern.prefab
+  artifactKey: Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lantern.prefab using Guid(91a783ea08dc34aeaa02c4791efb9b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117dc90d6a5df37492e1119b2854b2af') in 0.026642 seconds 
+  Import took 0.033829 seconds .
+
