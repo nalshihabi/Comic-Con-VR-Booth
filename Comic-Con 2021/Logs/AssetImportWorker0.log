@@ -2975,3 +2975,27 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Persian Rug.prefab using Guid(d43e352dbe30841538dd113129b8b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf32adc357ba7d194505fe2370a6044b') in 0.073666 seconds 
   Import took 0.082547 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 246.698315 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d9fb69ef7faaf9519aa999f9445882') in 0.002028 seconds 
+  Import took 0.005963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003072 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d9fb69ef7faaf9519aa999f9445882') in 0.001138 seconds 
+  Import took 0.006013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.821334 seconds.
+  path: Assets/Scenes/Comic Con 2021.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Comic Con 2021.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7258b21f61c26a99ab9f12f76a603955') in 0.004309 seconds 
+  Import took 0.010179 seconds .
+
