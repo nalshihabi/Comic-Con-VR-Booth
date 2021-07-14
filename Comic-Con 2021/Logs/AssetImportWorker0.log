@@ -3023,3 +3023,1315 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building v1.fbx using Guid(cddd2aa176cc04de89de3a85c80b8b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee70dcc3b669c74ce6fc95a2cb183c7') in 0.170760 seconds 
   Import took 0.175795 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 159.252595 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/MK_H_873_Rzezba_sw_Anna.obj
+  artifactKey: Guid(58e52569040d94a679056fca3b88c1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/MK_H_873_Rzezba_sw_Anna.obj using Guid(58e52569040d94a679056fca3b88c1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc938cf84363f28a5b38b3fc78ab196a') in 0.133510 seconds 
+  Import took 0.140432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.251067 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Statue of Woman.obj
+  artifactKey: Guid(58e52569040d94a679056fca3b88c1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Statue of Woman.obj using Guid(58e52569040d94a679056fca3b88c1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f2c69a797eb46cc0d8e757bb3b7116') in 0.131107 seconds 
+  Import took 0.136046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.625534 seconds.
+  path: Assets/ProjectAssets/Materials/Display Table.mat
+  artifactKey: Guid(be75f195fb26f4eefadc83418cf1e033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Display Table.mat using Guid(be75f195fb26f4eefadc83418cf1e033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd226398b12f5543e459b1e0a8e61323a') in 0.294262 seconds 
+  Import took 0.298421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/ProjectAssets/Materials/Telephone.mat
+  artifactKey: Guid(d384ef10d249a43508b70cb88c814947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Telephone.mat using Guid(d384ef10d249a43508b70cb88c814947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f385207c8b90966f75f648fe3e0f36') in 0.103106 seconds 
+  Import took 0.106210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/ProjectAssets/Materials/Persian Rug.mat
+  artifactKey: Guid(fa30716ffb5cd43ee9894ee91ba0540a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Persian Rug.mat using Guid(fa30716ffb5cd43ee9894ee91ba0540a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94260200bb33deb9eff7f44702b45437') in 0.054507 seconds 
+  Import took 0.058083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.390325 seconds.
+  path: Assets/ProjectAssets/Materials/Statue of Woman.mat
+  artifactKey: Guid(0fec7f3d9eff448f881102d0562bef25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Statue of Woman.mat using Guid(0fec7f3d9eff448f881102d0562bef25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba2c9f21c397c54d8dc31c21f7bca5e') in 0.039378 seconds 
+  Import took 0.043822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.428666 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Statue of Woman.prefab
+  artifactKey: Guid(55cd09293f0ae423bb29139f761e6081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Statue of Woman.prefab using Guid(55cd09293f0ae423bb29139f761e6081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0293be3bc38dc1064eaf8a45a41bd9cd') in 0.007602 seconds 
+  Import took 0.011790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.075862 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Statue of Woman.prefab
+  artifactKey: Guid(55cd09293f0ae423bb29139f761e6081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Statue of Woman.prefab using Guid(55cd09293f0ae423bb29139f761e6081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd946ef1a0c30bdd1607d6a2d1547ad') in 0.046316 seconds 
+  Import took 0.051263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 413.959888 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/DarkKnight04.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/DarkKnight04.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194fad3115bbe9e55aaf5bf14f2a7a6d') in 0.579305 seconds 
+  Import took 0.585463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.557190 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a4e11b627b542f4378ea8e04a20205') in 0.495206 seconds 
+  Import took 0.501546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.938948 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight
+  artifactKey: Guid(355d9db970c4c48b0b9ab5db42cbcdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight using Guid(355d9db970c4c48b0b9ab5db42cbcdc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818fc8869126871a75c34def775b4757') in 0.002313 seconds 
+  Import took 0.006205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.044727 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/New Material.mat
+  artifactKey: Guid(a595bb4c3a9284e5a974f10328335d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/New Material.mat using Guid(a595bb4c3a9284e5a974f10328335d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683cfd64db4804433dcacec8eaa4aed6') in 0.012637 seconds 
+  Import took 0.017133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.225566 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/New Material 1.mat
+  artifactKey: Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/New Material 1.mat using Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232efcf249629b3aef8e0eb8ee35a77f') in 0.043140 seconds 
+  Import took 0.047438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014389 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/New Material 1.mat
+  artifactKey: Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/New Material 1.mat using Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232efcf249629b3aef8e0eb8ee35a77f') in 0.067002 seconds 
+  Import took 0.071218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.257597 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Couter.mat
+  artifactKey: Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Couter.mat using Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd84c44da4d509a748f1291009f3432') in 0.049009 seconds 
+  Import took 0.053842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.350003 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Gauntlet.mat
+  artifactKey: Guid(a595bb4c3a9284e5a974f10328335d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Gauntlet.mat using Guid(a595bb4c3a9284e5a974f10328335d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34d0dd2c27ea011695c10007fa77737') in 0.050654 seconds 
+  Import took 0.055483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.313420 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/New Material.mat
+  artifactKey: Guid(ca4874821134348479292ad564e4f311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/New Material.mat using Guid(ca4874821134348479292ad564e4f311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab6be8a7c51c87e1c53bf67779a077e') in 0.045689 seconds 
+  Import took 0.050071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.360799 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Pauldron.mat
+  artifactKey: Guid(ca4874821134348479292ad564e4f311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Pauldron.mat using Guid(ca4874821134348479292ad564e4f311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cf86a9a74bb74315c06a4468a67742') in 0.043744 seconds 
+  Import took 0.048913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.692216 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_UnderPauldron.mat
+  artifactKey: Guid(521b38ece1e9a4a10b298c866e17ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_UnderPauldron.mat using Guid(521b38ece1e9a4a10b298c866e17ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128129b0b2df0c58c028da9b9ea06169') in 0.045705 seconds 
+  Import took 0.050014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.063714 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Van.mat
+  artifactKey: Guid(f7637db4afa9f4f4ca57dbe07422657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Van.mat using Guid(f7637db4afa9f4f4ca57dbe07422657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eee22764ebf0ccee4bfaa146e846af3') in 0.052121 seconds 
+  Import took 0.056949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.504595 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Vambrace.mat
+  artifactKey: Guid(f7637db4afa9f4f4ca57dbe07422657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Vambrace.mat using Guid(f7637db4afa9f4f4ca57dbe07422657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af137730ed869bd9553d9cd57835d66b') in 0.042479 seconds 
+  Import took 0.047277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.492136 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Base Mesh.mat
+  artifactKey: Guid(4b486dc8635f34731af5a42fb303cd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Base Mesh.mat using Guid(4b486dc8635f34731af5a42fb303cd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d92d697c3ed15f965cce3cb5b8842f') in 0.048887 seconds 
+  Import took 0.054371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.739862 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_AO.png
+  artifactKey: Guid(968437266821849de824baf60f40e5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_AO.png using Guid(968437266821849de824baf60f40e5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194445f0f1b978570d06ff32486eb6b0') in 0.013852 seconds 
+  Import took 0.017449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Roughness.png
+  artifactKey: Guid(68d032631c847461bb382a264472204f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Roughness.png using Guid(68d032631c847461bb382a264472204f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e4b32df0f4c8436e8522a4af7f8d21') in 0.008736 seconds 
+  Import took 0.011975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_AO.png
+  artifactKey: Guid(ace46b711427f4a37b67676a112dddd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_AO.png using Guid(ace46b711427f4a37b67676a112dddd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92bdd6d6b1a1ac7e3df91d518646250') in 0.030794 seconds 
+  Import took 0.035033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_BaseColor.png
+  artifactKey: Guid(79f71d919e32e43309233d0dd6105e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_BaseColor.png using Guid(79f71d919e32e43309233d0dd6105e3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96ff09b4e5c7bff2383657534a74aa33') in 0.054024 seconds 
+  Import took 0.060304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Metallic.png
+  artifactKey: Guid(8d4fbaf83c74f42bf91ace06fa855071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Metallic.png using Guid(8d4fbaf83c74f42bf91ace06fa855071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cc9bb058e898c1e01961e308473eef5') in 0.008937 seconds 
+  Import took 0.012072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Normal.png
+  artifactKey: Guid(906d58dd97ae84ff6a497a24b8fd89e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Normal.png using Guid(906d58dd97ae84ff6a497a24b8fd89e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b501d58c0d4ea6a1366cccf188ba8b53') in 0.007875 seconds 
+  Import took 0.010549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_AO.png
+  artifactKey: Guid(968437266821849de824baf60f40e5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_AO.png using Guid(968437266821849de824baf60f40e5da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194445f0f1b978570d06ff32486eb6b0') in 0.006285 seconds 
+  Import took 0.008771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.373096 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Normal.png
+  artifactKey: Guid(906d58dd97ae84ff6a497a24b8fd89e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Normal.png using Guid(906d58dd97ae84ff6a497a24b8fd89e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40dbb572858c21c7e9ca641c63afe79d') in 0.010388 seconds 
+  Import took 0.013756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058411 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Normal.png
+  artifactKey: Guid(906d58dd97ae84ff6a497a24b8fd89e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_couter_Normal.png using Guid(906d58dd97ae84ff6a497a24b8fd89e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40dbb572858c21c7e9ca641c63afe79d') in 0.029716 seconds 
+  Import took 0.035820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.600362 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_BaseColor.png
+  artifactKey: Guid(6f08b74a87eef453b98f44b96409e585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_BaseColor.png using Guid(6f08b74a87eef453b98f44b96409e585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb6ba4fb320b1c9b6183012dae02f5a') in 0.021539 seconds 
+  Import took 0.027365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Normal.png
+  artifactKey: Guid(060b8f0b45ceb430591c9543481bd86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Normal.png using Guid(060b8f0b45ceb430591c9543481bd86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5a04d9c19b9da7f3855664543bd3ae') in 0.012361 seconds 
+  Import took 0.015452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Metallic.png
+  artifactKey: Guid(d5211dc5dab2d4d65a00b59791b0e541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Metallic.png using Guid(d5211dc5dab2d4d65a00b59791b0e541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90eb799655d452d13a754fc83b62e3f4') in 0.039016 seconds 
+  Import took 0.043353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_BaseColor.png
+  artifactKey: Guid(f12852b5cf596415b8cb418055001f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_BaseColor.png using Guid(f12852b5cf596415b8cb418055001f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e365b5cdf1fefaa6d11f32a9aab8472') in 0.060627 seconds 
+  Import took 0.065188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Roughness.png
+  artifactKey: Guid(9ce287ad47bd942928b6f8749f56dc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Roughness.png using Guid(9ce287ad47bd942928b6f8749f56dc33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3060c410908a5d1737f3da93ddd2dc6b') in 0.036150 seconds 
+  Import took 0.040670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Metallic.png
+  artifactKey: Guid(3337e8efbf91b4d288ef3860782e718a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Metallic.png using Guid(3337e8efbf91b4d288ef3860782e718a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539b00e4615c9fcc51d36afa74acfded') in 0.055807 seconds 
+  Import took 0.060688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Normal.png
+  artifactKey: Guid(df2163fb19e674433a1baaffc6a7d55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Normal.png using Guid(df2163fb19e674433a1baaffc6a7d55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab4f44fd831a93d5f1b73f618a6ccc2') in 0.034908 seconds 
+  Import took 0.041083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Metallic.png
+  artifactKey: Guid(f9afc2c3819d3443f9a3bd6b33aacb00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Metallic.png using Guid(f9afc2c3819d3443f9a3bd6b33aacb00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c469467b101d9a51b01a05df4555ff8d') in 0.035586 seconds 
+  Import took 0.039227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_Eyes_Emissive.png
+  artifactKey: Guid(4f9ea6945f18c4201967d0fafcaf1340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_Eyes_Emissive.png using Guid(4f9ea6945f18c4201967d0fafcaf1340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e884c6256a64b90b162e063ea3ca6eb5') in 0.059531 seconds 
+  Import took 0.064334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000805 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_Normal.png
+  artifactKey: Guid(f607234a4761a40a7b5e73260725439e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_Normal.png using Guid(f607234a4761a40a7b5e73260725439e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86986f3ae6e3372929290a473b97edf') in 0.027868 seconds 
+  Import took 0.034931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_Normal.png
+  artifactKey: Guid(94cf6cfc67d9c4f78ba5255dfe213eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_Normal.png using Guid(94cf6cfc67d9c4f78ba5255dfe213eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ad73faf285365fd1d01da8ec81a2e2') in 0.052652 seconds 
+  Import took 0.060342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Normal.png
+  artifactKey: Guid(f8d3929364ae54b42b55731f53cacc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Normal.png using Guid(f8d3929364ae54b42b55731f53cacc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60583a2932938a89880f9ed3442890ef') in 0.048576 seconds 
+  Import took 0.059129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000810 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_Metallic.png
+  artifactKey: Guid(13e3d388e99ce40ed8a0281df1302690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_Metallic.png using Guid(13e3d388e99ce40ed8a0281df1302690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8bc791a3e7239632bf53b4f10dfa4d') in 0.040043 seconds 
+  Import took 0.050984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_BaseColor.png
+  artifactKey: Guid(0d7cf111fbaee4442bf08c586ee442a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_BaseColor.png using Guid(0d7cf111fbaee4442bf08c586ee442a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e55279d7f55172af6e67c1f976e0839') in 0.041555 seconds 
+  Import took 0.051349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000627 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_BaseColor.png
+  artifactKey: Guid(23ae6be88ab29463fb0ec474026bf59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_BaseColor.png using Guid(23ae6be88ab29463fb0ec474026bf59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f3ea504416b6f68a08ec7af333dbc8') in 0.043953 seconds 
+  Import took 0.053473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003995 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Normal.png
+  artifactKey: Guid(6507bb77372944d29b7e6d0b325d69df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Normal.png using Guid(6507bb77372944d29b7e6d0b325d69df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8030ab376af83ec71925e18c9e4b7d65') in 0.029850 seconds 
+  Import took 0.042759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_AO.png
+  artifactKey: Guid(03a90ceeb55b843f79da1acd3a2ae063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_AO.png using Guid(03a90ceeb55b843f79da1acd3a2ae063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839da67acda6b6392685e19749aeac25') in 0.033865 seconds 
+  Import took 0.041107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_AO.png
+  artifactKey: Guid(7155a2f66c33e45c28a662ebcc7db2e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_AO.png using Guid(7155a2f66c33e45c28a662ebcc7db2e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645adbb93d1bc34ec38071a733b00b07') in 0.025947 seconds 
+  Import took 0.032439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_BaseColor.png
+  artifactKey: Guid(11a3bf28bac5642d683ce8a4f50d99f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_BaseColor.png using Guid(11a3bf28bac5642d683ce8a4f50d99f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046cab3800b9b4f4001cbfbf3c15e98d') in 0.034886 seconds 
+  Import took 0.043610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Metallic.png
+  artifactKey: Guid(8fc1e5a0bb8c840418f3d763b9ad0700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Metallic.png using Guid(8fc1e5a0bb8c840418f3d763b9ad0700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94a36afce6480596fc3e379f61860a8') in 0.025161 seconds 
+  Import took 0.033677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000823 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Roughness.png
+  artifactKey: Guid(4fa628321e4d74595901a752a3e603fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Roughness.png using Guid(4fa628321e4d74595901a752a3e603fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8c3c92fe807f20157cad857b7547b9') in 0.053621 seconds 
+  Import took 0.065923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_AO.png
+  artifactKey: Guid(d7a2bb1ca0dae40bf99273ded9076066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_AO.png using Guid(d7a2bb1ca0dae40bf99273ded9076066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8618d5367bbe48a36277cb5d1b1c57ea') in 0.024599 seconds 
+  Import took 0.032707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_BaseColor.png
+  artifactKey: Guid(b0e3e66448ab14e0186c22c05336ce92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_BaseColor.png using Guid(b0e3e66448ab14e0186c22c05336ce92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066d10c22699f5139e1352d330bef491') in 0.029451 seconds 
+  Import took 0.040239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Roughness.png
+  artifactKey: Guid(a52f8a8ab75614ec1b8883b8c391f88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Roughness.png using Guid(a52f8a8ab75614ec1b8883b8c391f88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eca2c4e50a8fc5e790b2a3a95c78a79') in 0.027761 seconds 
+  Import took 0.035616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_AO.png
+  artifactKey: Guid(ea33f4e5faabb468580270d5fceeac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_AO.png using Guid(ea33f4e5faabb468580270d5fceeac60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dfcd7ab195f71290fe2c55707100aec') in 0.032032 seconds 
+  Import took 0.042854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Roughness.png
+  artifactKey: Guid(dce9b02da432b4faba9adc80c0fc37d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Roughness.png using Guid(dce9b02da432b4faba9adc80c0fc37d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8c1ed781166561c06266cd15f1f689') in 0.042820 seconds 
+  Import took 0.048426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_Roughness.png
+  artifactKey: Guid(ecf7c029d227c4f30b94f78c0f7b908c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_Roughness.png using Guid(ecf7c029d227c4f30b94f78c0f7b908c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8350b89b7f1aa510016e29855c8dd844') in 0.029232 seconds 
+  Import took 0.034389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Normal.png
+  artifactKey: Guid(554a730b00ca7455289e519366621271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Normal.png using Guid(554a730b00ca7455289e519366621271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd4038bf779f9bbc7907f231e104f70') in 0.041562 seconds 
+  Import took 0.049079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_BaseColor.png
+  artifactKey: Guid(50313a7302d5c43cc81e12044b24d08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_BaseColor.png using Guid(50313a7302d5c43cc81e12044b24d08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bae4bef1ef5e458b34392718c70e1e9') in 0.025617 seconds 
+  Import took 0.030959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_Roughness.png
+  artifactKey: Guid(1e7646288347149d4a420fa881e3b517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_gauntlet_Roughness.png using Guid(1e7646288347149d4a420fa881e3b517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '655667a1e48f1a6f0510c299bbf3a3b0') in 0.039871 seconds 
+  Import took 0.047617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Metallic.png
+  artifactKey: Guid(1eebfbf59330347a7bccc855156ed02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Metallic.png using Guid(1eebfbf59330347a7bccc855156ed02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d625115713eda09c616b0a06e8037a') in 0.021331 seconds 
+  Import took 0.032115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.643375 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Normal.png
+  artifactKey: Guid(6507bb77372944d29b7e6d0b325d69df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_pauldron_Normal.png using Guid(6507bb77372944d29b7e6d0b325d69df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04ebb49520c16551953757edf00758b') in 0.010331 seconds 
+  Import took 0.014174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.289951 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_TRANSPARENCY.png
+  artifactKey: Guid(8ea22a57e36f140efaf0d2a05d1ed818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_TRANSPARENCY.png using Guid(8ea22a57e36f140efaf0d2a05d1ed818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51771bdb573e486b2ac059f53e43a0ac') in 0.011285 seconds 
+  Import took 0.015314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_AO.png
+  artifactKey: Guid(01989260904c54bdda81ad33e54de1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_AO.png using Guid(01989260904c54bdda81ad33e54de1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9954d4b930140ce7192805a869a522') in 0.008580 seconds 
+  Import took 0.011591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.124963 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Normal.png
+  artifactKey: Guid(df2163fb19e674433a1baaffc6a7d55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_underPauldron_Normal.png using Guid(df2163fb19e674433a1baaffc6a7d55b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93f4b1ebf39adf5b84ab76f04e472c3') in 0.010657 seconds 
+  Import took 0.015627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.536803 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_BaseColor.png
+  artifactKey: Guid(0780d79b86f254ce698da8e1cf330dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_BaseColor.png using Guid(0780d79b86f254ce698da8e1cf330dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27509046f51106a1d38ba4242ef127fa') in 0.011009 seconds 
+  Import took 0.016217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_BaseColor.png
+  artifactKey: Guid(30d9552bba8c84f93a593bf2d45b5e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_BaseColor.png using Guid(30d9552bba8c84f93a593bf2d45b5e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6a8d9ac71f9bdc1f193a20ac1edccd') in 0.012837 seconds 
+  Import took 0.017290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.647486 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_Normal.png
+  artifactKey: Guid(94cf6cfc67d9c4f78ba5255dfe213eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/BaseMesh01_chainMail_Normal.png using Guid(94cf6cfc67d9c4f78ba5255dfe213eeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d13288fac17c01d322143707aebacd') in 0.015580 seconds 
+  Import took 0.019554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.623170 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ae5aa3774c389af0009cada1abb8e9') in 0.461778 seconds 
+  Import took 0.467951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.920384 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight
+  artifactKey: Guid(08adaad001601410a9b7c9dccc9e17c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight using Guid(08adaad001601410a9b7c9dccc9e17c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409349c6136a59b2be83a36c5e39240e') in 0.001676 seconds 
+  Import took 0.005386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103781 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Normal.png
+  artifactKey: Guid(060b8f0b45ceb430591c9543481bd86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/arms_vambrace_Normal.png using Guid(060b8f0b45ceb430591c9543481bd86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f863e9453aa174e00f158ad8ba6766df') in 0.036607 seconds 
+  Import took 0.043910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.831111 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Roughness.png
+  artifactKey: Guid(9959ef11da0454eb6a7dc993ab2c3017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Roughness.png using Guid(9959ef11da0454eb6a7dc993ab2c3017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8245efbed563c92a777b187a168edbb') in 0.011205 seconds 
+  Import took 0.015344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Metallic.png
+  artifactKey: Guid(01b7a6135688749478b9737a5af58f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Metallic.png using Guid(01b7a6135688749478b9737a5af58f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8feaf1fe9d5f4e8e3de95bf35abeba') in 0.009196 seconds 
+  Import took 0.012660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Normal.png
+  artifactKey: Guid(b2428ac31f90549689673635d0edcf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Normal.png using Guid(b2428ac31f90549689673635d0edcf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9adf79a7e3acc0a030b5c0692a033eb') in 0.043963 seconds 
+  Import took 0.048092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Roughness.png
+  artifactKey: Guid(daa92cf84d092412b813d5ad01015c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Roughness.png using Guid(daa92cf84d092412b813d5ad01015c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d29fd17345b8968e80ab3e132d8e31d') in 0.036881 seconds 
+  Import took 0.042380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_Roughness.png
+  artifactKey: Guid(0a185f41cc01148d7a6d68f1f5e29672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_Roughness.png using Guid(0a185f41cc01148d7a6d68f1f5e29672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2fd0e44bd85aa3a44153202b4b20f2') in 0.038180 seconds 
+  Import took 0.042156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/helmandPants_pants_BaseColor.png
+  artifactKey: Guid(a4ced68a5f28a402cb04fe05cca5ae9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/helmandPants_pants_BaseColor.png using Guid(a4ced68a5f28a402cb04fe05cca5ae9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc141b24845388fc4f22aefabe5e160') in 0.052446 seconds 
+  Import took 0.058183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Normal.png
+  artifactKey: Guid(519e9ce22ceba465eb555d0597f7349f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Normal.png using Guid(519e9ce22ceba465eb555d0597f7349f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb79674357140fe3a2f326b383e7ccce') in 0.029354 seconds 
+  Import took 0.036103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_Normal.png
+  artifactKey: Guid(f3e3decf3010d4a5d8b3287fc6d2c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_Normal.png using Guid(f3e3decf3010d4a5d8b3287fc6d2c43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d20a275ceee06b915f13d4af8ff9d1') in 0.041832 seconds 
+  Import took 0.049535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_BaseColor.png
+  artifactKey: Guid(084e6bc8c325e490bb93153a0574ecf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_BaseColor.png using Guid(084e6bc8c325e490bb93153a0574ecf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e48478a26bf4c578e59dfdb7897dec') in 0.045073 seconds 
+  Import took 0.053331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Normal.png
+  artifactKey: Guid(946b2f48278b8432b87df2a5d5c61c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Normal.png using Guid(946b2f48278b8432b87df2a5d5c61c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a63fc7e717c13c61293c8dd9df4335') in 0.032364 seconds 
+  Import took 0.037223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Metallic.png
+  artifactKey: Guid(2434fea1221514c9ca96a2afac38d4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Metallic.png using Guid(2434fea1221514c9ca96a2afac38d4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dafbb3e459ee9179c83b7b5ae7013a6b') in 0.051189 seconds 
+  Import took 0.058105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000840 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Roughness.png
+  artifactKey: Guid(8b12334bf871244bc8416b9cd1c7e61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Roughness.png using Guid(8b12334bf871244bc8416b9cd1c7e61f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871f54d06bb36f30bda44bb96b1e7f05') in 0.049825 seconds 
+  Import took 0.056463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Normal.png
+  artifactKey: Guid(c97acf14d9155428da0b3a4eafb999bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Normal.png using Guid(c97acf14d9155428da0b3a4eafb999bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f11401083154dd79ab46758cc7519e1') in 0.030287 seconds 
+  Import took 0.034895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000783 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Metallic.png
+  artifactKey: Guid(f332b9fcc29f44c81b23a49e07457b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Metallic.png using Guid(f332b9fcc29f44c81b23a49e07457b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60dbb0cad167b44a3d40e00b5f66af17') in 0.030463 seconds 
+  Import took 0.037071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000843 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_BaseColor.png
+  artifactKey: Guid(0a02e9573c60c48bb9b955a28e19acca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_BaseColor.png using Guid(0a02e9573c60c48bb9b955a28e19acca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0570466cb83ebf9c5f87394131750e') in 0.024850 seconds 
+  Import took 0.036480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000918 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_Normal.png
+  artifactKey: Guid(d8dbcd89abb1449a59c2417d5d524cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_Normal.png using Guid(d8dbcd89abb1449a59c2417d5d524cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714f971fa879e4c29ef0365b36a30db9') in 0.045071 seconds 
+  Import took 0.053396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_Metallic.png
+  artifactKey: Guid(3d134699cb22942e69a03db15274ba9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_Metallic.png using Guid(3d134699cb22942e69a03db15274ba9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3672b6759bce9bc36160ed63d48a3085') in 0.027096 seconds 
+  Import took 0.034423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_BaseColor.png
+  artifactKey: Guid(456123f7dc9114839b3a5c40b1ec2b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_BaseColor.png using Guid(456123f7dc9114839b3a5c40b1ec2b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546bce1f6c6b5026c60a42ae470fb720') in 0.045280 seconds 
+  Import took 0.053680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Normal.png
+  artifactKey: Guid(14cc1ef2dfd4046a699108c03ed0ed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Normal.png using Guid(14cc1ef2dfd4046a699108c03ed0ed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c966f7d69a938ed5bb5ae2127b3870') in 0.034563 seconds 
+  Import took 0.042729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_Normal.png
+  artifactKey: Guid(be91b51b05071440bac62ccf2734c730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_Normal.png using Guid(be91b51b05071440bac62ccf2734c730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799e3aad879742abbfd7c68be26acc20') in 0.040459 seconds 
+  Import took 0.048179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000875 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_Normal.png
+  artifactKey: Guid(873fa294d149b4f40852eecace4ac52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_Normal.png using Guid(873fa294d149b4f40852eecace4ac52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '319105cf49a7f84504c8b83c42d5925d') in 0.061575 seconds 
+  Import took 0.072317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008243 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_BaseColor.png
+  artifactKey: Guid(9ce633480f57d48da8288ff9c99cfd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_BaseColor.png using Guid(9ce633480f57d48da8288ff9c99cfd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7de9c5d9163e04a62c3e5f01c65acb0f') in 0.044450 seconds 
+  Import took 0.053692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004234 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_Roughness.png
+  artifactKey: Guid(cccb5cc38320d4741a80940c139b0c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_grip1_Roughness.png using Guid(cccb5cc38320d4741a80940c139b0c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b0aeed5c325e5373b525e28383cef3') in 0.037821 seconds 
+  Import took 0.049660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007299 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_AO.png
+  artifactKey: Guid(4720c04b008b94affa2625ba62313685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_AO.png using Guid(4720c04b008b94affa2625ba62313685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b0aa8503be2844634fb56dc0e041d5') in 0.021048 seconds 
+  Import took 0.033332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Roughness.png
+  artifactKey: Guid(f276a3795f2c84577ac7c49f0c0f9ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Roughness.png using Guid(f276a3795f2c84577ac7c49f0c0f9ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3664d451a041fc6e9f3f947aea9f440e') in 0.034953 seconds 
+  Import took 0.047337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_Metallic.png
+  artifactKey: Guid(b75af164d5f4f482fb43779db6fd1117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_Metallic.png using Guid(b75af164d5f4f482fb43779db6fd1117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa881efa7034e08aefdc1d284254c7d') in 0.018145 seconds 
+  Import took 0.023320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Roughness.png
+  artifactKey: Guid(93922e479321f4280903dc5c4063f745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Roughness.png using Guid(93922e479321f4280903dc5c4063f745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25516386682efb6bd24d81e324dddf63') in 0.032760 seconds 
+  Import took 0.045872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_Roughness.png
+  artifactKey: Guid(c3a5ec8db13644c189c810635b383c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_Roughness.png using Guid(c3a5ec8db13644c189c810635b383c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abcb00a7e8761fa26bfdc8fddcaf5da9') in 0.039043 seconds 
+  Import took 0.050095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Metallic.png
+  artifactKey: Guid(4a765aeabcaba488eab3d99a9cb7c2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Metallic.png using Guid(4a765aeabcaba488eab3d99a9cb7c2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f79a2c106471cb8e22014e54f181c94') in 0.014566 seconds 
+  Import took 0.024352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_BaseColor.png
+  artifactKey: Guid(a42df8506b3d142c495fbbcff67ab503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_BaseColor.png using Guid(a42df8506b3d142c495fbbcff67ab503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fedf29d86a509c1aa915c4aa228c014') in 0.040396 seconds 
+  Import took 0.049239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Metallic.png
+  artifactKey: Guid(ef6af29cab8b24f7b85b20f6943976e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Metallic.png using Guid(ef6af29cab8b24f7b85b20f6943976e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6267d177971b1527f2f877a39e1fe8f2') in 0.040296 seconds 
+  Import took 0.047245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothInnerTRANSPARENCY.png
+  artifactKey: Guid(c472bc18d3bb54c5faf76770ba5e1e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothInnerTRANSPARENCY.png using Guid(c472bc18d3bb54c5faf76770ba5e1e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0671f6633ae58fcdf032bfa702904757') in 0.034785 seconds 
+  Import took 0.042085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Roughness.png
+  artifactKey: Guid(6babed5f58e30473cbc14c54a4d7bd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Roughness.png using Guid(6babed5f58e30473cbc14c54a4d7bd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a7ccc189dd6289dbef176d50099110') in 0.043536 seconds 
+  Import took 0.051133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000931 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_Normal.png
+  artifactKey: Guid(655c5c30feef34d13bf1e093fe4a4835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_Normal.png using Guid(655c5c30feef34d13bf1e093fe4a4835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b762a7ccfb8ebb1db9f98caaac81b0f2') in 0.046365 seconds 
+  Import took 0.054434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_Roughness.png
+  artifactKey: Guid(ad3dd91209c49415ebe3b6c1dd260075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_Roughness.png using Guid(ad3dd91209c49415ebe3b6c1dd260075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62808e4e6eeb995a1a800808e45b1572') in 0.032050 seconds 
+  Import took 0.038930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_BaseColor.png
+  artifactKey: Guid(dcc9dc7a493784c7fbac0966ed54f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_BaseColor.png using Guid(dcc9dc7a493784c7fbac0966ed54f82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db70faabba7015cdcd1814aa299b80c4') in 0.048086 seconds 
+  Import took 0.053745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_Metallic.png
+  artifactKey: Guid(15b761014fb1c4ffab05ea64ad3985c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_Metallic.png using Guid(15b761014fb1c4ffab05ea64ad3985c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5213c34c140b9d7886585c2074249b01') in 0.050777 seconds 
+  Import took 0.059486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_AO.png
+  artifactKey: Guid(303cdcbf41691454dbb995f1f9329499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_AO.png using Guid(303cdcbf41691454dbb995f1f9329499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952ccebe4a8942d48d1df69a92c5fe64') in 0.028703 seconds 
+  Import took 0.034276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000713 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_BaseColor.png
+  artifactKey: Guid(45a5b707540674d209afaee6145792a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothInner02_waistclothUnderLPSG_BaseColor.png using Guid(45a5b707540674d209afaee6145792a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db50e51b52e8624b9ba690a72afd9911') in 0.049920 seconds 
+  Import took 0.058236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_Metallic.png
+  artifactKey: Guid(adb3dbfc55fcb4e8c814616465e3edf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/helmandPants_helm_Metallic.png using Guid(adb3dbfc55fcb4e8c814616465e3edf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4392f6241befa7f521079354a0d7222') in 0.043693 seconds 
+  Import took 0.053200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_BaseColor.png
+  artifactKey: Guid(378712c3572b34571bef28fe20e9591f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_BaseColor.png using Guid(378712c3572b34571bef28fe20e9591f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20dc191e89634db43d2b528138362eb0') in 0.028200 seconds 
+  Import took 0.034361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_Metallic.png
+  artifactKey: Guid(09d4f0832af2741a6b3ab585723b5533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_sabatonLP_lambert1SG_Metallic.png using Guid(09d4f0832af2741a6b3ab585723b5533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42373dc25555b1f62b775f0bd69d794b') in 0.049448 seconds 
+  Import took 0.060426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002778 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_Roughness.png
+  artifactKey: Guid(5c6796f872c52496ea3dd2cf9cd4bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/waistclothOuter01_waistclothUpperLPSG_Roughness.png using Guid(5c6796f872c52496ea3dd2cf9cd4bd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57dfc3acac2c22724ae0637ac6536222') in 0.025792 seconds 
+  Import took 0.035423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.330368 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992e8df77f03194d1c990b739f96d329') in 0.529226 seconds 
+  Import took 0.534984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.146037 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b366f8631fd9351438693ad3db2321') in 0.439464 seconds 
+  Import took 0.445498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.722826 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76dcfe97ae6cbaef38f2c00c23390904') in 0.618309 seconds 
+  Import took 0.624406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.336262 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c51f089971872727688476aeed0546') in 0.489812 seconds 
+  Import took 0.496160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.185613 seconds.
+  path: Assets/ProjectAssets/Materials/Statue of Woman.mat
+  artifactKey: Guid(0fec7f3d9eff448f881102d0562bef25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Statue of Woman.mat using Guid(0fec7f3d9eff448f881102d0562bef25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755b9defb4b31b71c3748d6273b3239b') in 0.049766 seconds 
+  Import took 0.056009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.342337 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Couter.mat
+  artifactKey: Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Couter.mat using Guid(6fdfec7ff5ed94d5d8c9b275f1e27a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bbb5e8f9c932d94e603bd40bd86e15') in 0.042527 seconds 
+  Import took 0.047644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Pauldron.mat
+  artifactKey: Guid(ca4874821134348479292ad564e4f311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Pauldron.mat using Guid(ca4874821134348479292ad564e4f311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9bfae7267169a04258512e58299a5ab') in 0.050838 seconds 
+  Import took 0.057073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Vambrace.mat
+  artifactKey: Guid(f7637db4afa9f4f4ca57dbe07422657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Vambrace.mat using Guid(f7637db4afa9f4f4ca57dbe07422657b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f7a6ebdc7750208e4d88e0e33c97f7') in 0.068670 seconds 
+  Import took 0.075080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Base Mesh.mat
+  artifactKey: Guid(4b486dc8635f34731af5a42fb303cd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Base Mesh.mat using Guid(4b486dc8635f34731af5a42fb303cd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44eb722bf873b5c87133892cf0634e9') in 0.067820 seconds 
+  Import took 0.072926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000907 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_UnderPauldron.mat
+  artifactKey: Guid(521b38ece1e9a4a10b298c866e17ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_UnderPauldron.mat using Guid(521b38ece1e9a4a10b298c866e17ec9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250397af5e2d0daa58eaa07c67e1652a') in 0.079440 seconds 
+  Import took 0.085036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Arms_Gauntlet.mat
+  artifactKey: Guid(a595bb4c3a9284e5a974f10328335d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Arms_Gauntlet.mat using Guid(a595bb4c3a9284e5a974f10328335d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd079de9b346c71db9a09d37af3befa2a') in 0.058756 seconds 
+  Import took 0.065620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.859521 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Lower.mat
+  artifactKey: Guid(909d2dffbba7a48a6924d35be06ea07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Lower.mat using Guid(909d2dffbba7a48a6924d35be06ea07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc155a98c84580e46a346bea24c24c1d') in 0.089465 seconds 
+  Import took 0.094063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.899111 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b52e0d3be2e473fc000ca56b4747d1') in 0.673649 seconds 
+  Import took 0.683818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.591121 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Upper.mat
+  artifactKey: Guid(b3e635f20cef248be8e8b72281bcaf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Upper.mat using Guid(b3e635f20cef248be8e8b72281bcaf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c4ce8784e23c50c8e0d8ab0982d9825') in 0.117685 seconds 
+  Import took 0.122307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.733228 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Normal.png
+  artifactKey: Guid(554a730b00ca7455289e519366621271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Normal.png using Guid(554a730b00ca7455289e519366621271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df19c17ee0c435673083595ae787e650') in 0.020111 seconds 
+  Import took 0.026079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010001 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Normal.png
+  artifactKey: Guid(554a730b00ca7455289e519366621271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateupper_Normal.png using Guid(554a730b00ca7455289e519366621271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df19c17ee0c435673083595ae787e650') in 0.017036 seconds 
+  Import took 0.022617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.924801 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Gorget.mat
+  artifactKey: Guid(8b5cc74db805047a28d176a625929774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Gorget.mat using Guid(8b5cc74db805047a28d176a625929774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32cc24ab840192965566c038065475d4') in 0.089148 seconds 
+  Import took 0.093338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 206.893974 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f985b4e0335f80524640dc1bd64f72') in 0.438195 seconds 
+  Import took 0.445509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.521972 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad580f367a814d4cd3ee51a49a8fe19') in 0.442276 seconds 
+  Import took 0.451474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.520162 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Normal.png
+  artifactKey: Guid(f8d3929364ae54b42b55731f53cacc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Normal.png using Guid(f8d3929364ae54b42b55731f53cacc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0deaea0fac5f32fcb0008369b35ee849') in 0.034184 seconds 
+  Import took 0.043187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Normal.png
+  artifactKey: Guid(b2428ac31f90549689673635d0edcf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_gorgetMain_Normal.png using Guid(b2428ac31f90549689673635d0edcf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc6a30867028fd69437debad9230e7d') in 0.016471 seconds 
+  Import took 0.021521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Normal.png
+  artifactKey: Guid(f8d3929364ae54b42b55731f53cacc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/chest_breastplateLower_Normal.png using Guid(f8d3929364ae54b42b55731f53cacc74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0deaea0fac5f32fcb0008369b35ee849') in 0.032980 seconds 
+  Import took 0.039258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.284237 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Helm_Pants.mat
+  artifactKey: Guid(d0f3f7f5f827341618edea97fff42f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Helm_Pants.mat using Guid(d0f3f7f5f827341618edea97fff42f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e062bc6c16d5e16503a9734caf640aae') in 0.051227 seconds 
+  Import took 0.055835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.564323 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3474108975f6738420738866982176') in 0.476086 seconds 
+  Import took 0.484562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.924998 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Helm.mat
+  artifactKey: Guid(d0f3f7f5f827341618edea97fff42f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Helm.mat using Guid(d0f3f7f5f827341618edea97fff42f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b140239953c2f53bdd6e5feb25795cb') in 0.029572 seconds 
+  Import took 0.035203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.560996 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Pants.mat
+  artifactKey: Guid(b7cb34d450ec6496e9aaa46a776a23ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Pants.mat using Guid(b7cb34d450ec6496e9aaa46a776a23ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fdbe540b3c80672a1c8be68f8fb9cc') in 0.045266 seconds 
+  Import took 0.050323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.085111 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/New Material.mat
+  artifactKey: Guid(baec02a46e5564efe831574698d73f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/New Material.mat using Guid(baec02a46e5564efe831574698d73f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cfc48b59130617d92ac944efa88fce') in 0.039511 seconds 
+  Import took 0.046601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.108366 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Greaves.mat
+  artifactKey: Guid(baec02a46e5564efe831574698d73f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Greaves.mat using Guid(baec02a46e5564efe831574698d73f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68b65b52d5df3379e0bf960319d7fbd') in 0.047507 seconds 
+  Import took 0.052944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.993910 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Poleyn.mat
+  artifactKey: Guid(9b7eb91e01c2846c99ab55194a4b0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Poleyn.mat using Guid(9b7eb91e01c2846c99ab55194a4b0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45540abff84116a16bf357e3b1e39ce5') in 0.052331 seconds 
+  Import took 0.057427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.518683 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206309ceadbddb9fc1a7fd5446881e72') in 0.474327 seconds 
+  Import took 0.483141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.348748 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Lower.mat
+  artifactKey: Guid(909d2dffbba7a48a6924d35be06ea07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Lower.mat using Guid(909d2dffbba7a48a6924d35be06ea07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3930ef450a7114d98836ac56fccca050') in 0.022574 seconds 
+  Import took 0.027222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Upper.mat
+  artifactKey: Guid(b3e635f20cef248be8e8b72281bcaf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Breastplate_Upper.mat using Guid(b3e635f20cef248be8e8b72281bcaf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf78cb30ed7cfa2cf0999f9421b88d2e') in 0.041590 seconds 
+  Import took 0.044794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000633 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Greaves.mat
+  artifactKey: Guid(baec02a46e5564efe831574698d73f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Greaves.mat using Guid(baec02a46e5564efe831574698d73f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938ed27798fe88a740bef768419e7110') in 0.078175 seconds 
+  Import took 0.085454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Gorget.mat
+  artifactKey: Guid(8b5cc74db805047a28d176a625929774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Gorget.mat using Guid(8b5cc74db805047a28d176a625929774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e72fe78e33da041d4108a1bc49554d8c') in 0.036060 seconds 
+  Import took 0.042394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Pants.mat
+  artifactKey: Guid(b7cb34d450ec6496e9aaa46a776a23ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Pants.mat using Guid(b7cb34d450ec6496e9aaa46a776a23ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b818557d7d6527e1ad327d57f338f659') in 0.039738 seconds 
+  Import took 0.046525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Poleyn.mat
+  artifactKey: Guid(9b7eb91e01c2846c99ab55194a4b0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Poleyn.mat using Guid(9b7eb91e01c2846c99ab55194a4b0419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45da0cd628121281a70b06a6445e69c5') in 0.067741 seconds 
+  Import took 0.079310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.806958 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Sabaton.mat
+  artifactKey: Guid(24627b2804e424e6daa1a0787ffee950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Sabaton.mat using Guid(24627b2804e424e6daa1a0787ffee950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92689ce7c735f6e22ff2f5cd1dd9800b') in 0.051456 seconds 
+  Import took 0.056996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.864405 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/WaistCloth_Inner.mat
+  artifactKey: Guid(a8ae60eaff48b4b3c92f084767a8c4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/WaistCloth_Inner.mat using Guid(a8ae60eaff48b4b3c92f084767a8c4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93416fed6b3b01f800844dcf625bbcb1') in 0.048996 seconds 
+  Import took 0.054209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.197571 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/WaistCloth_Outer.mat
+  artifactKey: Guid(399303046030f4b92a21f031e1c13e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/WaistCloth_Outer.mat using Guid(399303046030f4b92a21f031e1c13e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99e6ae7ffbe30c7a2e307253463ad0f') in 0.044193 seconds 
+  Import took 0.049089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.910367 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b9933bcb46418b85ce6654d1042221') in 0.889006 seconds 
+  Import took 0.904740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.251165 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753f37b5700988b062682198da324a8f') in 0.438659 seconds 
+  Import took 0.450452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.181870 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Crossguard.mat
+  artifactKey: Guid(30fcc35c4390744ffbed4aa63eeed507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Crossguard.mat using Guid(30fcc35c4390744ffbed4aa63eeed507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb01591803c3c940f06a91b1ee506d48') in 0.064469 seconds 
+  Import took 0.071550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.490787 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Grip.mat
+  artifactKey: Guid(7469863d5955c486294020427fedf819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Grip.mat using Guid(7469863d5955c486294020427fedf819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c773bc5b414468ff7c6c4245ed69b318') in 0.047501 seconds 
+  Import took 0.052059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.662848 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/New Folder
+  artifactKey: Guid(1621d8be5c36d40b1804ad48825a874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/New Folder using Guid(1621d8be5c36d40b1804ad48825a874e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d37961d70ceb813d0de7e85d9b2115') in 0.002897 seconds 
+  Import took 0.008320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.755780 seconds.
+  path: Assets/ProjectAssets/Materials/Dark Knight/Sword.mat
+  artifactKey: Guid(20a169f13102f488a9862308af1b450b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Dark Knight/Sword.mat using Guid(20a169f13102f488a9862308af1b450b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96cc8a9e696cfc013ea6da42902342b') in 0.044103 seconds 
+  Import took 0.049664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.818541 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Normal.png
+  artifactKey: Guid(c97acf14d9155428da0b3a4eafb999bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_sword_Normal.png using Guid(c97acf14d9155428da0b3a4eafb999bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1dba55c4c61ae5839775134fcb46804') in 0.019860 seconds 
+  Import took 0.024522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.652263 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx
+  artifactKey: Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Dark Knight.fbx using Guid(3b8172245aebd4118bf03c4ddd2c465e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f945ba693a61d43acc7458d4c0274e46') in 0.508022 seconds 
+  Import took 0.519142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.925683 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Dark Knight.prefab
+  artifactKey: Guid(ffd9daec9760f42e0a63f6328cb7fe34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Dark Knight.prefab using Guid(ffd9daec9760f42e0a63f6328cb7fe34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac43c337e5e5f9fbe89fa28ab7e73be') in 0.020157 seconds 
+  Import took 0.024225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.783427 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Dark Knight.prefab
+  artifactKey: Guid(ffd9daec9760f42e0a63f6328cb7fe34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Dark Knight.prefab using Guid(ffd9daec9760f42e0a63f6328cb7fe34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d8ae0899000b4dfd25d335f455d0b4') in 0.195052 seconds 
+  Import took 0.207054 seconds .
+
