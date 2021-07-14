@@ -1759,3 +1759,187 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Tall Chair.prefab using Guid(ccc772a769451428da651b4cf4d28fe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad7b8129c77d06a720b294c683f973d') in 0.038550 seconds 
   Import took 0.043152 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2916.178635 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/House_v1
+  artifactKey: Guid(928a9b6c1923d458a85d59ae6f61851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/House_v1 using Guid(928a9b6c1923d458a85d59ae6f61851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2304adb32fd2dbb78e8b2d9bd4d345') in 0.028931 seconds 
+  Import took 0.064106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.116566 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building
+  artifactKey: Guid(3d9dbf75165204425add75423710d9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building using Guid(3d9dbf75165204425add75423710d9ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0642fc45c465747ccaf7a1949f898f19') in 0.002908 seconds 
+  Import took 0.006989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.174967 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend
+  artifactKey: Guid(dec5521e4be5f475b8abcb174ca9cd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend using Guid(dec5521e4be5f475b8abcb174ca9cd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d86d2fbf34433f218d29c06a765a12') in 0.219015 seconds 
+  Import took 0.225344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.810056 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend
+  artifactKey: Guid(dec5521e4be5f475b8abcb174ca9cd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend using Guid(dec5521e4be5f475b8abcb174ca9cd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3969bc163de5ae8533dad2fa627bf2f4') in 0.165912 seconds 
+  Import took 0.170834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.375988 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend1
+  artifactKey: Guid(ab37c51dfd5164ea59cdea4071ac8bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend1 using Guid(ab37c51dfd5164ea59cdea4071ac8bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289905b45d6bcb3e5884bafee3abb6d6') in 0.180804 seconds 
+  Import took 0.185066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.944752 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend
+  artifactKey: Guid(dec5521e4be5f475b8abcb174ca9cd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.blend using Guid(dec5521e4be5f475b8abcb174ca9cd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576a88c943543f98664d2b447530af04') in 0.165537 seconds 
+  Import took 0.170773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.524344 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.fbx
+  artifactKey: Guid(44026dc82976f46de81728407cfab687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building_v1.fbx using Guid(44026dc82976f46de81728407cfab687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f82413975dcd758303c350f40050d6e') in 0.164178 seconds 
+  Import took 0.169209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 552.784948 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Model_1.0_for_Unity.fbx
+  artifactKey: Guid(f60a24929f17a4aad8cd3714a370cfdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Model_1.0_for_Unity.fbx using Guid(f60a24929f17a4aad8cd3714a370cfdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d54ef8d7bc30b0a6e9f49b03055578') in 0.172509 seconds 
+  Import took 0.177940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6172.453755 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/armchair.obj
+  artifactKey: Guid(0baf6f85f765048f0b94dbc75051684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/armchair.obj using Guid(0baf6f85f765048f0b94dbc75051684d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ff46384791d4fef37822b8eb7752d7') in 0.517807 seconds 
+  Import took 0.524098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.438802 seconds.
+  path: Assets/ProjectAssets/Materials/Tall Chair.mat
+  artifactKey: Guid(55f6cbf736034403b9097fdae675ef24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Tall Chair.mat using Guid(55f6cbf736034403b9097fdae675ef24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f3e4cb3c6fb03986540112fb54c7ea') in 0.052499 seconds 
+  Import took 0.057365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.585462 seconds.
+  path: Assets/ProjectAssets/Materials/Armchair.mat
+  artifactKey: Guid(eeee99c15a5f5427bace8ea1fd5e2a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Armchair.mat using Guid(eeee99c15a5f5427bace8ea1fd5e2a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8285ca1b6fe2786ae07a3ee91cac66') in 0.042006 seconds 
+  Import took 0.047990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.634353 seconds.
+  path: Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Diffuse.png
+  artifactKey: Guid(97fcb80432b2746979008d4e544acb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Diffuse.png using Guid(97fcb80432b2746979008d4e544acb5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72963e5fc51541e855d530f866737755') in 0.019017 seconds 
+  Import took 0.023745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Glossiness.png
+  artifactKey: Guid(45134cb45b1b54952a51c9c5767c0756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Glossiness.png using Guid(45134cb45b1b54952a51c9c5767c0756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ead2bbbb3094c7279871abc4af09e52') in 0.007972 seconds 
+  Import took 0.011009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.429678 seconds.
+  path: Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Normal.png
+  artifactKey: Guid(3ad43bee4764c4fb9bb7b72b3154418c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Normal.png using Guid(3ad43bee4764c4fb9bb7b72b3154418c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c34a502e01ab4614be8baaad081986') in 0.009403 seconds 
+  Import took 0.014283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ProjectAssets/Textures/Armchair/Set-GloassMap.jpeg
+  artifactKey: Guid(a649d521eb7794af3984dbd843999424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Armchair/Set-GloassMap.jpeg using Guid(a649d521eb7794af3984dbd843999424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc31e2ac7925436a334a4ed246807bbc') in 1.085940 seconds 
+  Import took 1.090973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ProjectAssets/Textures/Armchair/Sotto01CompleteMap.jpeg
+  artifactKey: Guid(6f9fc330f756748d49cb608ce8992cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Armchair/Sotto01CompleteMap.jpeg using Guid(6f9fc330f756748d49cb608ce8992cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebb1bf80bd5640b85fdf189c73fd450') in 0.014659 seconds 
+  Import took 0.020410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.043806 seconds.
+  path: Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Normal.png
+  artifactKey: Guid(3ad43bee4764c4fb9bb7b72b3154418c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Armchair/LR1_wire_134110008_Normal.png using Guid(3ad43bee4764c4fb9bb7b72b3154418c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce77cb2c3049872cddc9a36ee27ec787') in 0.071806 seconds 
+  Import took 0.078315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.513391 seconds.
+  path: Assets/ProjectAssets/Materials/Armchair_Leather.mat
+  artifactKey: Guid(eeee99c15a5f5427bace8ea1fd5e2a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Armchair_Leather.mat using Guid(eeee99c15a5f5427bace8ea1fd5e2a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278c750a711c082ae94370b8a782182b') in 0.042605 seconds 
+  Import took 0.047957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.269507 seconds.
+  path: Assets/ProjectAssets/Materials/Armchair_Wood.mat
+  artifactKey: Guid(06b5908331676414f8344bf4d35116e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Armchair_Wood.mat using Guid(06b5908331676414f8344bf4d35116e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676ec8c1b2acb32cc08226b141f31d0d') in 0.050302 seconds 
+  Import took 0.056450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.067000 seconds.
+  path: Assets/ProjectAssets/Materials/New Material.mat
+  artifactKey: Guid(05a8ce7a460d6470ea4815ec0722c269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/New Material.mat using Guid(05a8ce7a460d6470ea4815ec0722c269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b60901e9a9ceffb0fe67c43d9e121d5') in 0.058580 seconds 
+  Import took 0.064880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.854736 seconds.
+  path: Assets/ProjectAssets/Materials/Brass.mat
+  artifactKey: Guid(05a8ce7a460d6470ea4815ec0722c269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Brass.mat using Guid(05a8ce7a460d6470ea4815ec0722c269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fbfcbf76878146eda17ccd88453fa4') in 0.034141 seconds 
+  Import took 0.038624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.434371 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Armchair.prefab
+  artifactKey: Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Armchair.prefab using Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3195d2d9ee365d837ae9d4888d4a7586') in 0.011229 seconds 
+  Import took 0.017134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.712138 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Armchair.prefab
+  artifactKey: Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Armchair.prefab using Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa4e1ed05518e7ba92e11193d61e843') in 0.096285 seconds 
+  Import took 0.107538 seconds .
+
