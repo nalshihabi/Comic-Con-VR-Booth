@@ -1943,3 +1943,115 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Armchair.prefab using Guid(a6eaaf9833e4b414b8ffd4ee2df628ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fa4e1ed05518e7ba92e11193d61e843') in 0.096285 seconds 
   Import took 0.107538 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 962.776672 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/scene.gltf
+  artifactKey: Guid(222df71ec6057469191e206e0207a650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/scene.gltf using Guid(222df71ec6057469191e206e0207a650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41dd6629a23532eeb80519295bc411d5') in 0.169090 seconds 
+  Import took 0.173444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.507098 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/model.dae
+  artifactKey: Guid(a098e388064a8478c92c26fa9b326bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/model.dae using Guid(a098e388064a8478c92c26fa9b326bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1abe8137a4e70c9479e3255982ea3f') in 0.474023 seconds 
+  Import took 0.479067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.761641 seconds.
+  path: Assets/ProjectAssets/Materials/Lounge Sofa.mat
+  artifactKey: Guid(7da870470b3f94b5daad7f34ce2bbecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Lounge Sofa.mat using Guid(7da870470b3f94b5daad7f34ce2bbecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f49756b32086cc59edfa165a8cd2a8c') in 0.039003 seconds 
+  Import took 0.043458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.351963 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_albedo.jpeg
+  artifactKey: Guid(427f3ec9c3e5143448b65581c7439877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_albedo.jpeg using Guid(427f3ec9c3e5143448b65581c7439877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae1e586705df9667fad05a2427b065b') in 0.012901 seconds 
+  Import took 0.016049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_metallic.jpeg
+  artifactKey: Guid(34e82c74a1893492ebd90327237ca041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_metallic.jpeg using Guid(34e82c74a1893492ebd90327237ca041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87865fb3e3463dd0028091117db4571e') in 0.010459 seconds 
+  Import took 0.013333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_albedo.jpeg
+  artifactKey: Guid(427f3ec9c3e5143448b65581c7439877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_albedo.jpeg using Guid(427f3ec9c3e5143448b65581c7439877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae1e586705df9667fad05a2427b065b') in 0.031542 seconds 
+  Import took 0.035394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_AO.jpeg
+  artifactKey: Guid(b29718d69ff4f4397a694bff8f60a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_AO.jpeg using Guid(b29718d69ff4f4397a694bff8f60a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67343716ccf21932c71202cdc74a6369') in 0.028815 seconds 
+  Import took 0.032987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.898676 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_normal.png
+  artifactKey: Guid(88d3329730c2c4f97a9efc1f9e68a224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_normal.png using Guid(88d3329730c2c4f97a9efc1f9e68a224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ed0e6f1e99809d77a04bfb6b72da10') in 0.010858 seconds 
+  Import took 0.015091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/internal_ground_ao_texture.jpeg
+  artifactKey: Guid(b6dda7b85b41b422b85f3e5a9e5f13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/internal_ground_ao_texture.jpeg using Guid(b6dda7b85b41b422b85f3e5a9e5f13b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708376b5c2bdd263e51cf93923933b60') in 0.010868 seconds 
+  Import took 0.013816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_roughness.jpeg
+  artifactKey: Guid(846abd761c0504b46827d1c71f6c3262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_roughness.jpeg using Guid(846abd761c0504b46827d1c71f6c3262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f761e2e2442c7a1f2ffd30db33907516') in 0.032152 seconds 
+  Import took 0.036861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.660606 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_normal.png
+  artifactKey: Guid(88d3329730c2c4f97a9efc1f9e68a224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_normal.png using Guid(88d3329730c2c4f97a9efc1f9e68a224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6441926f2d1abe175aac62406814d257') in 0.016216 seconds 
+  Import took 0.020575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001857 seconds.
+  path: Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_normal.png
+  artifactKey: Guid(88d3329730c2c4f97a9efc1f9e68a224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Lounge Sofa/initialShadingGroup_normal.png using Guid(88d3329730c2c4f97a9efc1f9e68a224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6441926f2d1abe175aac62406814d257') in 0.010822 seconds 
+  Import took 0.014462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.942760 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab
+  artifactKey: Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab using Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25122cf3191317bd4104edac35ae604') in 0.007229 seconds 
+  Import took 0.012276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.418908 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab
+  artifactKey: Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Lounge Sofa.prefab using Guid(107a598ea702e4c0082e88ed57553bf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d24449881ec0d79de229efa7878178f') in 0.058545 seconds 
+  Import took 0.064239 seconds .
+
