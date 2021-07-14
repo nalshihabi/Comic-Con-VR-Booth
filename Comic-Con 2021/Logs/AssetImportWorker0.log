@@ -2935,3 +2935,43 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Display Table.prefab using Guid(81819011aeea0421a806105e8984f659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b74dc19ba642f5fde6bb2c6f92eae6') in 0.042344 seconds 
   Import took 0.046278 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 558.117531 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/rug01_MDL_nar.fbx.fbx
+  artifactKey: Guid(21444399102374681b6bb5344b797d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/rug01_MDL_nar.fbx.fbx using Guid(21444399102374681b6bb5344b797d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b6114e8b7ba3023ba7f6a3d0a9a7da3') in 0.112930 seconds 
+  Import took 0.119597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.025532 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Persian Rug.fbx
+  artifactKey: Guid(21444399102374681b6bb5344b797d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Persian Rug.fbx using Guid(21444399102374681b6bb5344b797d30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd14fc0a8c435b8bd841dbb2eb4b08f') in 0.107497 seconds 
+  Import took 0.111965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.912330 seconds.
+  path: Assets/ProjectAssets/Materials/Persian Rug.mat
+  artifactKey: Guid(fa30716ffb5cd43ee9894ee91ba0540a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Persian Rug.mat using Guid(fa30716ffb5cd43ee9894ee91ba0540a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d306ed4e5a24af12538a7be28f894d9') in 0.039897 seconds 
+  Import took 0.045261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.811854 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Persian Rug.prefab
+  artifactKey: Guid(d43e352dbe30841538dd113129b8b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Persian Rug.prefab using Guid(d43e352dbe30841538dd113129b8b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437c55230e22cc0c09655980f00da91f') in 0.008479 seconds 
+  Import took 0.012702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.273390 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Persian Rug.prefab
+  artifactKey: Guid(d43e352dbe30841538dd113129b8b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Persian Rug.prefab using Guid(d43e352dbe30841538dd113129b8b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf32adc357ba7d194505fe2370a6044b') in 0.073666 seconds 
+  Import took 0.082547 seconds .
+
