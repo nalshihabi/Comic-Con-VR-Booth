@@ -540,3 +540,67 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Weapon Rack.prefab using Guid(937155b466faf4a9f9696df3bf34a7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3bc4749c7099354273241863d42e74f') in 0.059003 seconds 
   Import took 0.062932 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 163.284984 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Kopie_tip_1_NEW.fbx
+  artifactKey: Guid(981b04aed47994c54838d2a8878e1f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Kopie_tip_1_NEW.fbx using Guid(981b04aed47994c54838d2a8878e1f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bddddb5a0c1262e88a1c4553fce42162') in 0.117538 seconds 
+  Import took 0.123290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.013600 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Spear.fbx
+  artifactKey: Guid(981b04aed47994c54838d2a8878e1f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Spear.fbx using Guid(981b04aed47994c54838d2a8878e1f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756bcda505028067bca1dc6c65317017') in 0.056526 seconds 
+  Import took 0.062073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.088847 seconds.
+  path: Assets/ProjectAssets/Materials/Short Spear.mat
+  artifactKey: Guid(21bf8969e3b3b4246878d39a1e870c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Short Spear.mat using Guid(21bf8969e3b3b4246878d39a1e870c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31990a8271b472b30529b2054df4d057') in 0.042822 seconds 
+  Import took 0.047593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/ProjectAssets/Materials/Weapon Rack.mat
+  artifactKey: Guid(b54cf83ca7f3e4cb0868cab98db94a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Weapon Rack.mat using Guid(b54cf83ca7f3e4cb0868cab98db94a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6721c73314b436cecdfff40eb7d81ac') in 0.057721 seconds 
+  Import took 0.063957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.755859 seconds.
+  path: Assets/ProjectAssets/Materials/Spear.mat
+  artifactKey: Guid(ecbc13028bfad44e78a48e1f8cdd23c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Spear.mat using Guid(ecbc13028bfad44e78a48e1f8cdd23c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b206df7ec7356623cc13a35569eb5c') in 0.039069 seconds 
+  Import took 0.043065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.874215 seconds.
+  path: Assets/ProjectAssets/Materials/Spear.mat
+  artifactKey: Guid(ecbc13028bfad44e78a48e1f8cdd23c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Spear.mat using Guid(ecbc13028bfad44e78a48e1f8cdd23c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd162d7daa9e269dfb5668f30ec24d7c4') in 0.070146 seconds 
+  Import took 0.073969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.091998 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Spear.prefab
+  artifactKey: Guid(0504be8abb1ce48ef903c6cc98368d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Spear.prefab using Guid(0504be8abb1ce48ef903c6cc98368d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd16c99f9dc1781a1fa33f17aec5aca8') in 0.006704 seconds 
+  Import took 0.011330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.108425 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Spear.prefab
+  artifactKey: Guid(0504be8abb1ce48ef903c6cc98368d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Spear.prefab using Guid(0504be8abb1ce48ef903c6cc98368d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32c32b2574818ebd4717f6096246d96') in 0.039632 seconds 
+  Import took 0.043782 seconds .
+
