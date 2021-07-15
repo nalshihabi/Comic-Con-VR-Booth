@@ -604,3 +604,179 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Spear.prefab using Guid(0504be8abb1ce48ef903c6cc98368d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32c32b2574818ebd4717f6096246d96') in 0.039632 seconds 
   Import took 0.043782 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1503.051828 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Outdoor_Lamp.fbx
+  artifactKey: Guid(5fc522e6afba844759c1d3800bf103b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Outdoor_Lamp.fbx using Guid(5fc522e6afba844759c1d3800bf103b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2bc2e8aa50299f2889b11f43d82792') in 0.138277 seconds 
+  Import took 0.143466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.201873 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Globus.obj
+  artifactKey: Guid(52997fc76ddb3411689a0749c33e55ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Globus.obj using Guid(52997fc76ddb3411689a0749c33e55ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdd30318f5a0e47d45fc180ae4b7c23') in 0.409796 seconds 
+  Import took 0.413796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.924191 seconds.
+  path: Assets/ProjectAssets/Materials/Globe.mat
+  artifactKey: Guid(64926a05761024ff1a4add9b899453f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Globe.mat using Guid(64926a05761024ff1a4add9b899453f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661faf1e21d10d585a068c09693b73f3') in 0.037774 seconds 
+  Import took 0.041724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.492550 seconds.
+  path: Assets/ProjectAssets/Materials/Wall Lamp.mat
+  artifactKey: Guid(c21549cd2a45c4e94a5173c807284070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Wall Lamp.mat using Guid(c21549cd2a45c4e94a5173c807284070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76222fa9e95c5ca2bd70ad008a4a42f') in 0.037791 seconds 
+  Import took 0.042958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.243728 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Base_Color.png
+  artifactKey: Guid(e15a07c19a8564bdb83ef17fc92a8241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Base_Color.png using Guid(e15a07c19a8564bdb83ef17fc92a8241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa06805a7023c978febef1377f423965') in 0.016122 seconds 
+  Import took 0.019911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ProjectAssets/Textures/Spear/DefaultMaterial_Mixed_AO.png
+  artifactKey: Guid(1d6f7098d535d4dfa94af0d4bd7eb9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Spear/DefaultMaterial_Mixed_AO.png using Guid(1d6f7098d535d4dfa94af0d4bd7eb9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf0a7116a5e42fb3e801f4d76a9bbe4') in 0.009778 seconds 
+  Import took 0.012591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Roughness.png
+  artifactKey: Guid(d147728cb8173458eafcc5ba7879231e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Roughness.png using Guid(d147728cb8173458eafcc5ba7879231e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd82c3943160aad4ba28a742c6647616') in 0.019108 seconds 
+  Import took 0.023790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Normal_DirectX.png
+  artifactKey: Guid(ab9911be804c64b5387f6dd1671131bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Normal_DirectX.png using Guid(ab9911be804c64b5387f6dd1671131bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7ca2a965210996e3be2b7b70b243fa') in 0.030532 seconds 
+  Import took 0.034991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000707 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Metallic.png
+  artifactKey: Guid(747f8562d1f5a47e0bc9eeb11a77663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Metallic.png using Guid(747f8562d1f5a47e0bc9eeb11a77663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20eeadd377d0814fa566e992cf398e7') in 0.028976 seconds 
+  Import took 0.035027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Base_Color.png
+  artifactKey: Guid(e15a07c19a8564bdb83ef17fc92a8241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Base_Color.png using Guid(e15a07c19a8564bdb83ef17fc92a8241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa06805a7023c978febef1377f423965') in 0.012363 seconds 
+  Import took 0.016053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Emissive.png
+  artifactKey: Guid(e8fde86677bcf4095b8cfc6592f51d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Emissive.png using Guid(e8fde86677bcf4095b8cfc6592f51d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78490f6ce2c9d440c6b10bcb699fa2df') in 0.024487 seconds 
+  Import took 0.030741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Mixed_AO.png
+  artifactKey: Guid(707c9bb92e3d046a9a3f8e516543c817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Mixed_AO.png using Guid(707c9bb92e3d046a9a3f8e516543c817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60c64ec8af3f64328ac6aa0af1521396') in 0.028119 seconds 
+  Import took 0.035058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.256503 seconds.
+  path: Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_BaseColor.png
+  artifactKey: Guid(2655646a2b78d4459a5eeee8755b3a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_BaseColor.png using Guid(2655646a2b78d4459a5eeee8755b3a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2071cf3992d1d9f020f378c7b4dd64fb') in 0.010534 seconds 
+  Import took 0.016064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_Roughness.png
+  artifactKey: Guid(fb00e0e318dee497f9980821c0ab5d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_Roughness.png using Guid(fb00e0e318dee497f9980821c0ab5d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69673d701bc21c78be33498d19872695') in 0.014198 seconds 
+  Import took 0.018129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_Normal.png
+  artifactKey: Guid(7f3731d749a574beca6c1020445645c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_Normal.png using Guid(7f3731d749a574beca6c1020445645c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac4bd68ee5e6c19cf7dcac3cc351362') in 0.036289 seconds 
+  Import took 0.042669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000798 seconds.
+  path: Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_Metallic.png
+  artifactKey: Guid(e5c549b5db81c4a33b63482b32f91897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Spear/Kopie_tip_1_NEW_DefaultMaterial_Metallic.png using Guid(e5c549b5db81c4a33b63482b32f91897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ab49441dd655a58287cbb0ae67d9b68') in 0.021426 seconds 
+  Import took 0.031456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.845647 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Normal_DirectX.png
+  artifactKey: Guid(ab9911be804c64b5387f6dd1671131bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Normal_DirectX.png using Guid(ab9911be804c64b5387f6dd1671131bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1521d3b8da9f9fc42f2750bde6483e12') in 0.055995 seconds 
+  Import took 0.062882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004072 seconds.
+  path: Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Normal_DirectX.png
+  artifactKey: Guid(ab9911be804c64b5387f6dd1671131bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Wall Lamp/DefaultMaterial_Normal_DirectX.png using Guid(ab9911be804c64b5387f6dd1671131bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1521d3b8da9f9fc42f2750bde6483e12') in 0.018643 seconds 
+  Import took 0.022925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.894292 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Globe.prefab
+  artifactKey: Guid(601cfa51612a146f686470005ad2e78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Globe.prefab using Guid(601cfa51612a146f686470005ad2e78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701cd86a18667ac5ff2fa03c653ed860') in 0.008677 seconds 
+  Import took 0.013046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.211706 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Globe.prefab
+  artifactKey: Guid(601cfa51612a146f686470005ad2e78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Globe.prefab using Guid(601cfa51612a146f686470005ad2e78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce653bd93b7f4001a2870aa19d106e4') in 0.073888 seconds 
+  Import took 0.084507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.866449 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Wall Lamp.prefab
+  artifactKey: Guid(f56463b508c8645be80c582644537c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Wall Lamp.prefab using Guid(f56463b508c8645be80c582644537c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938753f350f2b59011c141965d31ba51') in 0.004570 seconds 
+  Import took 0.008750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.667890 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Wall Lamp.prefab
+  artifactKey: Guid(f56463b508c8645be80c582644537c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Wall Lamp.prefab using Guid(f56463b508c8645be80c582644537c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528da34f632ac284d32735d32c77d8c4') in 0.060741 seconds 
+  Import took 0.065699 seconds .
+
