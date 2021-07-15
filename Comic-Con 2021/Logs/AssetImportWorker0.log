@@ -116,3 +116,339 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Materials/Gramophone.mat using Guid(ba5ad40c368704921a08298f736dd80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed0f787fd109d7d03a76743078b2d49') in 1.190567 seconds 
   Import took 1.195714 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 14008.231531 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/telescope.FBX
+  artifactKey: Guid(a40a5a7bca053414ea09025f1458d649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/telescope.FBX using Guid(a40a5a7bca053414ea09025f1458d649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6405ea0f55d8025a16d3a26ab4b6102') in 0.442387 seconds 
+  Import took 0.448307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.404516 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Furniture/model.dae
+  artifactKey: Guid(259638e726d834d7aa1417c230afae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Furniture/model.dae using Guid(259638e726d834d7aa1417c230afae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16daca9fa8e1a199f073563b0867930b') in 0.507906 seconds 
+  Import took 0.512125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.010469 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Furniture/Old Chest.dae
+  artifactKey: Guid(259638e726d834d7aa1417c230afae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Furniture/Old Chest.dae using Guid(259638e726d834d7aa1417c230afae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c84a0a4208384edd3cf0f6d61a892b') in 0.115919 seconds 
+  Import took 0.120122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.839138 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Telescope.FBX
+  artifactKey: Guid(a40a5a7bca053414ea09025f1458d649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Telescope.FBX using Guid(a40a5a7bca053414ea09025f1458d649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340e6323ae9737b667574f8962430082') in 0.100613 seconds 
+  Import took 0.105257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.393732 seconds.
+  path: Assets/ProjectAssets/Materials/Telescope.mat
+  artifactKey: Guid(0f8b1c767a1b749eba04eca2602e81d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Telescope.mat using Guid(0f8b1c767a1b749eba04eca2602e81d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89ea8adea814fe7285d9465ca301739e') in 0.042766 seconds 
+  Import took 0.047362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.763552 seconds.
+  path: Assets/ProjectAssets/Textures/Telescope/telescope_telescope_AlbedoTransparency.png
+  artifactKey: Guid(072c5597589e34e9eb7104b729aa1608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Telescope/telescope_telescope_AlbedoTransparency.png using Guid(072c5597589e34e9eb7104b729aa1608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f43d51525b274a29920e9605eb16261') in 0.061058 seconds 
+  Import took 0.066823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000830 seconds.
+  path: Assets/ProjectAssets/Textures/Telescope/telescope_telescope_Normal.png
+  artifactKey: Guid(34080a63d5be74c578d8959d46dcfb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Telescope/telescope_telescope_Normal.png using Guid(34080a63d5be74c578d8959d46dcfb97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597b8f6bd1e119c96d56c9a8449f0677') in 0.019426 seconds 
+  Import took 0.023807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ProjectAssets/Textures/Telescope/telescope_telescope_AlbedoTransparency.png
+  artifactKey: Guid(072c5597589e34e9eb7104b729aa1608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Telescope/telescope_telescope_AlbedoTransparency.png using Guid(072c5597589e34e9eb7104b729aa1608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f43d51525b274a29920e9605eb16261') in 0.038808 seconds 
+  Import took 0.046379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000711 seconds.
+  path: Assets/ProjectAssets/Textures/Telescope/telescope_telescope_MetallicSmoothness.png
+  artifactKey: Guid(3d16bea315af64d51b00c6c5da580a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Telescope/telescope_telescope_MetallicSmoothness.png using Guid(3d16bea315af64d51b00c6c5da580a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1cfaf887108353077eb80e3e01afd23') in 0.058341 seconds 
+  Import took 0.065973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.525624 seconds.
+  path: Assets/ProjectAssets/Materials/Old Chest.mat
+  artifactKey: Guid(949e4526c34fe45c7ab9dafa04855c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Old Chest.mat using Guid(949e4526c34fe45c7ab9dafa04855c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7401ab8fe6508a6234c068f16dbeb10') in 0.038499 seconds 
+  Import took 0.042779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.108562 seconds.
+  path: Assets/ProjectAssets/Materials/Old Chest Wood.mat
+  artifactKey: Guid(949e4526c34fe45c7ab9dafa04855c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Old Chest Wood.mat using Guid(949e4526c34fe45c7ab9dafa04855c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb36ec0e79c5cf1f3a96dfada0e21f3') in 0.040573 seconds 
+  Import took 0.045327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.796889 seconds.
+  path: Assets/ProjectAssets/Textures/Nightstand/ClassicNightstand_01_diff_2k.jpg
+  artifactKey: Guid(40912f00ae3f644f380c40c80c121455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Nightstand/ClassicNightstand_01_diff_2k.jpg using Guid(40912f00ae3f644f380c40c80c121455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa149a1b228b8dedf90f064b25fef25d') in 0.010430 seconds 
+  Import took 0.013848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001382 seconds.
+  path: Assets/ProjectAssets/Textures/Nightstand/ClassicNightstand_01_diff_2k.jpg
+  artifactKey: Guid(40912f00ae3f644f380c40c80c121455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Nightstand/ClassicNightstand_01_diff_2k.jpg using Guid(40912f00ae3f644f380c40c80c121455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa149a1b228b8dedf90f064b25fef25d') in 0.006149 seconds 
+  Import took 0.008937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.196324 seconds.
+  path: Assets/ProjectAssets/Materials/Old Chest Metal.mat
+  artifactKey: Guid(027d1df9971aa42308519970dca27539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Old Chest Metal.mat using Guid(027d1df9971aa42308519970dca27539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98042ca303b3eacbe9915d0476aec21') in 0.039367 seconds 
+  Import took 0.043689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.108643 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Metal_albedo.jpg
+  artifactKey: Guid(6de45d29d1f9644a58272cc053d0db4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Metal_albedo.jpg using Guid(6de45d29d1f9644a58272cc053d0db4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffab383d7a5a52e05d67cfee3a1e180b') in 0.009555 seconds 
+  Import took 0.013991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ProjectAssets/Textures/Statue of Woman/MK_H_873_Rzezba_sw_Anna.jpeg
+  artifactKey: Guid(32521e4a86d9a4fbf8e3fde43156727d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Statue of Woman/MK_H_873_Rzezba_sw_Anna.jpeg using Guid(32521e4a86d9a4fbf8e3fde43156727d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e862be6a0647e124b4a270777efdf53') in 0.924240 seconds 
+  Import took 0.927415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ProjectAssets/Textures/Persian Rug/rug01_diff.tga.png
+  artifactKey: Guid(e4b09fec86a4a40238f647c1ce54d62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Persian Rug/rug01_diff.tga.png using Guid(e4b09fec86a4a40238f647c1ce54d62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd0da8f1fe9d6874548c4994d99b689') in 0.014112 seconds 
+  Import took 0.016767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Metal_roughness.jpg
+  artifactKey: Guid(05ecb1be27c47481e837864664bea23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Metal_roughness.jpg using Guid(05ecb1be27c47481e837864664bea23e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab6bab80530cc60f69213dfc205f2d0') in 0.008217 seconds 
+  Import took 0.010703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Metal_normal.jpg
+  artifactKey: Guid(f0cc83a954d444e1fb1ce72cd1cd0952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Metal_normal.jpg using Guid(f0cc83a954d444e1fb1ce72cd1cd0952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec0b360ec6cb13b7fce0dfa836029b3') in 0.009013 seconds 
+  Import took 0.011426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/ProjectAssets/Textures/Persian Rug/rug01_normals.tga.png
+  artifactKey: Guid(7bd414922053a403b81f5af01ce960b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Persian Rug/rug01_normals.tga.png using Guid(7bd414922053a403b81f5af01ce960b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25632321159a015f2cdf08d4bbf5389d') in 0.012059 seconds 
+  Import took 0.014686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Metal_albedo.jpg
+  artifactKey: Guid(6de45d29d1f9644a58272cc053d0db4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Metal_albedo.jpg using Guid(6de45d29d1f9644a58272cc053d0db4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffab383d7a5a52e05d67cfee3a1e180b') in 0.007979 seconds 
+  Import took 0.010175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Metal_metallic_1k.jpg
+  artifactKey: Guid(3a113a9efd4784da4905d2a28a5f8c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Metal_metallic_1k.jpg using Guid(3a113a9efd4784da4905d2a28a5f8c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf6dc3b7c07c652f0387b0918ae33c4') in 0.007946 seconds 
+  Import took 0.010121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ProjectAssets/Textures/Statue of Woman/MK_H_873_Rzezba_sw_Anna_normal_map.jpeg
+  artifactKey: Guid(82ef741d1322344e19dc6b4117e64437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Statue of Woman/MK_H_873_Rzezba_sw_Anna_normal_map.jpeg using Guid(82ef741d1322344e19dc6b4117e64437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8341a69eff9da5e9db00bed31dc9d008') in 0.012957 seconds 
+  Import took 0.015809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.304555 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Drewno_albedo.jpg
+  artifactKey: Guid(bb496314840ce4f4a810c169aeca2859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Drewno_albedo.jpg using Guid(bb496314840ce4f4a810c169aeca2859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9b55ca7c41116204c192e04b0083c0') in 0.012355 seconds 
+  Import took 0.016411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Drewno_roughness.jpg
+  artifactKey: Guid(da88c957f650c4ebdaf2689ec9475f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Drewno_roughness.jpg using Guid(da88c957f650c4ebdaf2689ec9475f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '688a278db6e433b663396902ebfd2898') in 0.009865 seconds 
+  Import took 0.012958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Drewno_normal.jpg
+  artifactKey: Guid(ce401d52ff76d40e09a3b450d5ed55d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Drewno_normal.jpg using Guid(ce401d52ff76d40e09a3b450d5ed55d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9179c7a10f75a79664bc80db786e1f') in 0.020847 seconds 
+  Import took 0.025040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ProjectAssets/Textures/Old Chest/Drewno_albedo.jpg
+  artifactKey: Guid(bb496314840ce4f4a810c169aeca2859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Old Chest/Drewno_albedo.jpg using Guid(bb496314840ce4f4a810c169aeca2859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9b55ca7c41116204c192e04b0083c0') in 0.008191 seconds 
+  Import took 0.010897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.973676 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Normal.png
+  artifactKey: Guid(946b2f48278b8432b87df2a5d5c61c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Normal.png using Guid(946b2f48278b8432b87df2a5d5c61c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222871cdb91cba26662acd468ffd8884') in 0.013778 seconds 
+  Import took 0.018161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004131 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Normal.png
+  artifactKey: Guid(946b2f48278b8432b87df2a5d5c61c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/Zwei01_crossguard_Normal.png using Guid(946b2f48278b8432b87df2a5d5c61c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222871cdb91cba26662acd468ffd8884') in 0.009235 seconds 
+  Import took 0.013211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.234039 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Normal.png
+  artifactKey: Guid(14cc1ef2dfd4046a699108c03ed0ed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_greave_greave_Normal.png using Guid(14cc1ef2dfd4046a699108c03ed0ed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3026ec9a598a0aae3d8a757a4976ea4e') in 0.014427 seconds 
+  Import took 0.017998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Normal.png
+  artifactKey: Guid(519e9ce22ceba465eb555d0597f7349f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Textures/Dark Knight/legs_poleynLP1_lambert2SG_Normal.png using Guid(519e9ce22ceba465eb555d0597f7349f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b551388d13d9707d80720c969089ddf') in 0.010995 seconds 
+  Import took 0.013950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.510863 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Old Chest.prefab
+  artifactKey: Guid(2fb75a7316675478d93db55f83949422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Old Chest.prefab using Guid(2fb75a7316675478d93db55f83949422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df73ac156bd8b94fa1647a6d3dadb81e') in 0.228094 seconds 
+  Import took 0.232377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.322623 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Old Chest.prefab
+  artifactKey: Guid(2fb75a7316675478d93db55f83949422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Old Chest.prefab using Guid(2fb75a7316675478d93db55f83949422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d5c51194475afaa382e1f7e2464b48') in 0.062914 seconds 
+  Import took 0.069888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 697.378653 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/model.dae
+  artifactKey: Guid(0c0b076286aff455fa8bf6f495c1bf97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/model.dae using Guid(0c0b076286aff455fa8bf6f495c1bf97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7a301a61440af14870622af6fc3220') in 0.138871 seconds 
+  Import took 0.143126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.580936 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Props/Roman Bust.dae
+  artifactKey: Guid(0c0b076286aff455fa8bf6f495c1bf97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Props/Roman Bust.dae using Guid(0c0b076286aff455fa8bf6f495c1bf97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973c85486becf796cef269ac446ef1c7') in 0.129476 seconds 
+  Import took 0.134063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.958084 seconds.
+  path: Assets/ProjectAssets/Materials/Roman Bust.mat
+  artifactKey: Guid(5e3d6d39d5bd74b22b4179d259b1d6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Roman Bust.mat using Guid(5e3d6d39d5bd74b22b4179d259b1d6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2631fca11e7a82af59ef1f44e8b29a') in 0.038913 seconds 
+  Import took 0.042880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.797410 seconds.
+  path: Assets/ProjectAssets/Materials/Old Chest Metal.mat
+  artifactKey: Guid(027d1df9971aa42308519970dca27539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Old Chest Metal.mat using Guid(027d1df9971aa42308519970dca27539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561e275345ec3f5dbdeb0c186eabfbe9') in 0.080749 seconds 
+  Import took 0.087846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/ProjectAssets/Materials/Roman Bust.mat
+  artifactKey: Guid(5e3d6d39d5bd74b22b4179d259b1d6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Roman Bust.mat using Guid(5e3d6d39d5bd74b22b4179d259b1d6fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfedbde7bb64dc51f29c703bea85563') in 0.071000 seconds 
+  Import took 0.080671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/ProjectAssets/Materials/Telescope.mat
+  artifactKey: Guid(0f8b1c767a1b749eba04eca2602e81d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Telescope.mat using Guid(0f8b1c767a1b749eba04eca2602e81d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61976451df6546e8f96c19e7135172c') in 0.067593 seconds 
+  Import took 0.073309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/ProjectAssets/Materials/Old Chest Wood.mat
+  artifactKey: Guid(949e4526c34fe45c7ab9dafa04855c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Materials/Old Chest Wood.mat using Guid(949e4526c34fe45c7ab9dafa04855c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487ff21ad2ba6778d466dee69eecf9e4') in 0.062544 seconds 
+  Import took 0.070118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.657007 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Roman Bust.prefab
+  artifactKey: Guid(995c511e808ac48c5ba9614208673a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Roman Bust.prefab using Guid(995c511e808ac48c5ba9614208673a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9605f401367d49e28c3538d12fcaa06') in 0.004682 seconds 
+  Import took 0.009221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.700644 seconds.
+  path: Assets/ProjectAssets/Models/Prefabs/Roman Bust.prefab
+  artifactKey: Guid(995c511e808ac48c5ba9614208673a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Prefabs/Roman Bust.prefab using Guid(995c511e808ac48c5ba9614208673a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b05f730f1cb3f32791d984e7115ef1') in 0.074908 seconds 
+  Import took 0.080332 seconds .
+
