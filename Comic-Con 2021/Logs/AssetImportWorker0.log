@@ -780,3 +780,19 @@ Received Import Request.
 Start importing Assets/ProjectAssets/Models/Prefabs/Wall Lamp.prefab using Guid(f56463b508c8645be80c582644537c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528da34f632ac284d32735d32c77d8c4') in 0.060741 seconds 
   Import took 0.065699 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1373.958194 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Model 2.0 for Unity.fbx
+  artifactKey: Guid(14b2657bc2be44022aea77c39a5d536e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Model 2.0 for Unity.fbx using Guid(14b2657bc2be44022aea77c39a5d536e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a75625f06f7d5913f691f0cbb4cb15') in 1.159391 seconds 
+  Import took 1.197281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.912302 seconds.
+  path: Assets/ProjectAssets/Models/Untextured Models/Building/Building v2.fbx
+  artifactKey: Guid(14b2657bc2be44022aea77c39a5d536e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProjectAssets/Models/Untextured Models/Building/Building v2.fbx using Guid(14b2657bc2be44022aea77c39a5d536e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a39febe314fe9ec92a083dbb3b7db5') in 1.086722 seconds 
+  Import took 1.103934 seconds .
+
