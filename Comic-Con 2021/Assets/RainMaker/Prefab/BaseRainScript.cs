@@ -318,6 +318,7 @@ namespace DigitalRuby.RainMaker
     {
         public AudioSource AudioSource { get; private set; }
         public float TargetVolume { get; private set; }
+        public const float maxVolume = 0.005f;
 
         public LoopingAudioSource(MonoBehaviour script, AudioClip clip, AudioMixerGroup mixer)
         {
@@ -338,6 +339,11 @@ namespace DigitalRuby.RainMaker
 
         public void Play(float targetVolume)
         {
+            if (targetVolume > maxVolume)
+            {
+                targetVolume = maxVolume;
+            }
+
             if (!AudioSource.isPlaying)
             {
                 AudioSource.volume = 0.0f;
