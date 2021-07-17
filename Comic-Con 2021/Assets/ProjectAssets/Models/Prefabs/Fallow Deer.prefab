@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8614258745424532422}
   - component: {fileID: 1463948005610592826}
   - component: {fileID: 3725615700369174256}
+  - component: {fileID: 4925559180753522191}
   m_Layer: 0
   m_Name: Fallow Deer
   m_TagString: Untagged
@@ -83,6 +84,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &4925559180753522191
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895557534899421809}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7002640761082289169, guid: dffcd5991b9644035aef4686a36e52d9, type: 3}
 --- !u!1 &2058102130971981590
 GameObject:
   m_ObjectHideFlags: 0
